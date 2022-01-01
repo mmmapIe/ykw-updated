@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Whispy talky.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Whispy talky0000" x="29" y="29" width="463" height="385" pivotX="-5.75" pivotY="1.1" frameX="0" frameY="-10" frameWidth="463" frameHeight="395"/>
+	<SubTexture name="Whispy talky0001" x="29" y="29" width="463" height="385" frameX="0" frameY="-10" frameWidth="463" frameHeight="395"/>
+	<SubTexture name="Whispy talky0002" x="521" y="29" width="448" height="395" frameX="-6" frameY="0" frameWidth="463" frameHeight="395"/>
+	<SubTexture name="Whispy talky0003" x="521" y="29" width="448" height="395" frameX="-6" frameY="0" frameWidth="463" frameHeight="395"/>
+	<SubTexture name="Whispy talky0004" x="29" y="453" width="439" height="395" frameX="-6" frameY="0" frameWidth="463" frameHeight="395"/>
+	<SubTexture name="Whispy talky0005" x="29" y="453" width="439" height="395" frameX="-6" frameY="0" frameWidth="463" frameHeight="395"/>
+	<SubTexture name="Whispy talky0006" x="497" y="453" width="430" height="395" frameX="-6" frameY="0" frameWidth="463" frameHeight="395"/>
+	<SubTexture name="Whispy talky0007" x="497" y="453" width="430" height="395" frameX="-6" frameY="0" frameWidth="463" frameHeight="395"/>
+</TextureAtlas>

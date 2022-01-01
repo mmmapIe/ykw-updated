@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.6,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-90,
+				-10
+			],
+			"idle_offsets": [
+				-91,
+				-11
+			],
+			"loop_name": "Talkering",
+			"idle_name": "Talkering0005"
+		}
+	],
+	"image": "Jibanyan_talkering"
+}

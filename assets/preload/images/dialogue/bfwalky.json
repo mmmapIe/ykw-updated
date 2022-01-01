@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-10,
+				60
+			],
+			"idle_offsets": [
+				-11,
+				59
+			],
+			"loop_name": "Bf go away",
+			"idle_name": "Bf go away"
+		}
+	],
+	"image": "bfwalky"
+}

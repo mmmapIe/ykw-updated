@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jibanyan.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Talkering0000" x="29" y="29" width="395" height="355" pivotX="11.75" pivotY="-14.85" frameX="0" frameY="-4" frameWidth="395" frameHeight="359"/>
+	<SubTexture name="Talkering0001" x="29" y="29" width="395" height="355" frameX="0" frameY="-4" frameWidth="395" frameHeight="359"/>
+	<SubTexture name="Talkering0002" x="453" y="29" width="376" height="358" frameX="-9" frameY="-1" frameWidth="395" frameHeight="359"/>
+	<SubTexture name="Talkering0003" x="453" y="29" width="376" height="358" frameX="-9" frameY="-1" frameWidth="395" frameHeight="359"/>
+	<SubTexture name="Talkering0004" x="29" y="416" width="367" height="359" frameX="-13" frameY="0" frameWidth="395" frameHeight="359"/>
+	<SubTexture name="Talkering0005" x="29" y="416" width="367" height="359" frameX="-13" frameY="0" frameWidth="395" frameHeight="359"/>
+</TextureAtlas>

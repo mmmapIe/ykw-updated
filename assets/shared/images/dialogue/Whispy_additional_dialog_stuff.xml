@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Whispy additional dialog stuff.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SHOCKED0000" x="29" y="29" width="450" height="395" pivotX="0.65" pivotY="1.1" frameX="-5" frameY="0" frameWidth="465" frameHeight="395"/>
+	<SubTexture name="SHOCKED0001" x="508" y="29" width="440" height="395" frameX="-1" frameY="0" frameWidth="465" frameHeight="395"/>
+	<SubTexture name="SHOCKED0002" x="977" y="29" width="442" height="395" frameX="0" frameY="0" frameWidth="465" frameHeight="395"/>
+	<SubTexture name="SHOCKED0003" x="1448" y="29" width="437" height="395" frameX="-3" frameY="0" frameWidth="465" frameHeight="395"/>
+	<SubTexture name="SHOCKED0004" x="29" y="453" width="454" height="395" frameX="-11" frameY="0" frameWidth="465" frameHeight="395"/>
+	<SubTexture name="SHOCKED0005" x="512" y="453" width="452" height="388" frameX="0" frameY="-7" frameWidth="465" frameHeight="395"/>
+	<SubTexture name="Talky Fly0000" x="993" y="453" width="374" height="386" pivotX="45.2" pivotY="383.75" frameX="-66" frameY="-391" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0001" x="993" y="453" width="374" height="386" frameX="-66" frameY="-391" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0002" x="1396" y="453" width="384" height="377" frameX="-62" frameY="-401" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0003" x="1396" y="453" width="384" height="377" frameX="-62" frameY="-401" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0004" x="29" y="877" width="392" height="367" frameX="-60" frameY="-411" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0005" x="450" y="877" width="365" height="614" frameX="-86" frameY="-200" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0006" x="844" y="877" width="230" height="701" frameX="-155" frameY="-87" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0007" x="844" y="877" width="230" height="701" frameX="-155" frameY="-87" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0008" x="1103" y="877" width="425" height="267" frameX="-63" frameY="-37" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0009" x="1103" y="877" width="425" height="267" frameX="-63" frameY="-37" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0010" x="29" y="1607" width="486" height="252" frameX="-28" frameY="-19" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0011" x="29" y="1607" width="486" height="252" frameX="-28" frameY="-19" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0012" x="544" y="1607" width="552" height="226" frameX="0" frameY="-17" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0013" x="544" y="1607" width="552" height="226" frameX="0" frameY="-17" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0014" x="1125" y="1607" width="349" height="541" frameX="-79" frameY="0" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0015" x="1503" y="1607" width="452" height="468" frameX="-35" frameY="-76" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0016" x="29" y="2177" width="432" height="489" frameX="-46" frameY="-52" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0017" x="29" y="2177" width="432" height="489" frameX="-46" frameY="-52" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0018" x="29" y="2177" width="432" height="489" frameX="-46" frameY="-52" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0019" x="29" y="2177" width="432" height="489" frameX="-46" frameY="-52" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0020" x="29" y="2177" width="432" height="489" frameX="-46" frameY="-52" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0021" x="29" y="2177" width="432" height="489" frameX="-46" frameY="-52" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0022" x="29" y="2177" width="432" height="489" frameX="-46" frameY="-52" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0023" x="29" y="2177" width="432" height="489" frameX="-46" frameY="-52" frameWidth="552" frameHeight="814"/>
+	<SubTexture name="Talky Fly0024" x="29" y="2177" width="432" height="489" frameX="-46" frameY="-52" frameWidth="552" frameHeight="814"/>
+</TextureAtlas>

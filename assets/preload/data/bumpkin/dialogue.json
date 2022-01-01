@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "komasan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That was great and all!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "komasan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But komajiro still hasn't arrived!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "huh, well im sure he will be her-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*INCOMING CALL FROM : KJ*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey bro, Sorry im running late"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I got a gig last minute, It's at the train station  "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "komasan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh ok! I don't know if I can make it.. I have to go to work! I got a job at the office tower."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "can i go"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "komasan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Um, Ok, Well cya later bro!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, Cya later bro!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*HANG UP*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "komasan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I can do one more song before I have to go."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alright"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whisper",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This should be interesting."
+		}
+	]
+}

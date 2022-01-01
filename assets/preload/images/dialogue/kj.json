@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-150,
+				10
+			],
+			"idle_offsets": [
+				-151,
+				9
+			],
+			"loop_name": "Kj talky",
+			"idle_name": "KJ talky0005"
+		}
+	],
+	"image": "KJ_talky"
+}

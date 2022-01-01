@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-70,
+				30
+			],
+			"idle_offsets": [
+				-71,
+				29
+			],
+			"loop_name": "Whispy talky",
+			"idle_name": "Whispy talky0007"
+		}
+	],
+	"image": "Whispy_talky"
+}

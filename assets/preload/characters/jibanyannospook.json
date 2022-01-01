@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-145,
+				-72
+			],
+			"anim": "nya",
+			"fps": 24,
+			"name": "NYA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-114
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-148,
+				-72
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-158,
+				-77
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				-76
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-66
+			],
+			"anim": "reveal",
+			"fps": 24,
+			"name": "wtf",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-151,
+				-71
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jibanyan",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "jibanyan",
+	"flip_x": false,
+	"healthbar_colors": [
+		229,
+		67,
+		46
+	],
+	"camera_position": [
+		140,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

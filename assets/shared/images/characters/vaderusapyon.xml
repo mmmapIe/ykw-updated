@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vaderusapyon.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="USApyon Vader Sing Note DOWN0000" x="0" y="0" width="539" height="550" pivotX="228" pivotY="212"/>
+	<SubTexture name="USApyon Vader Sing Note DOWN0001" x="561" y="0" width="539" height="550"/>
+	<SubTexture name="USApyon Vader Sing Note DOWN0002" x="1122" y="0" width="539" height="550"/>
+	<SubTexture name="USApyon Vader Sing Note DOWN0003" x="1683" y="0" width="539" height="550"/>
+	<SubTexture name="USApyon Vader Sing Note DOWN0004" x="2244" y="0" width="539" height="550"/>
+	<SubTexture name="USApyon Vader Sing Note DOWN0005" x="2805" y="0" width="539" height="550"/>
+	<SubTexture name="USApyon Vader Sing Note DOWN0006" x="3366" y="0" width="539" height="550"/>
+	<SubTexture name="USApyon Vader Sing Note LEFT0000" x="0" y="572" width="539" height="549" pivotX="12" pivotY="167"/>
+	<SubTexture name="USApyon Vader Sing Note LEFT0001" x="561" y="572" width="539" height="549"/>
+	<SubTexture name="USApyon Vader Sing Note LEFT0002" x="1122" y="572" width="539" height="549"/>
+	<SubTexture name="USApyon Vader Sing Note LEFT0003" x="1683" y="572" width="539" height="549"/>
+	<SubTexture name="USApyon Vader Sing Note RIGHT0000" x="2244" y="572" width="539" height="549" pivotX="71" pivotY="349"/>
+	<SubTexture name="USApyon Vader Sing Note RIGHT0001" x="2805" y="572" width="539" height="549"/>
+	<SubTexture name="USApyon Vader Sing Note RIGHT0002" x="3366" y="572" width="539" height="549"/>
+	<SubTexture name="USApyon Vader Sing Note RIGHT0003" x="0" y="1143" width="539" height="549"/>
+	<SubTexture name="USApyon Vader Sing Note UP0000" x="561" y="1143" width="539" height="549" pivotX="186" pivotY="255"/>
+	<SubTexture name="USApyon Vader Sing Note UP0001" x="1122" y="1143" width="539" height="549"/>
+	<SubTexture name="USApyon Vader Sing Note UP0002" x="1683" y="1143" width="539" height="549"/>
+	<SubTexture name="USApyon Vader Sing Note UP0003" x="2244" y="1143" width="539" height="549"/>
+	<SubTexture name="USApyon Vader Sing Note UP0004" x="2805" y="1143" width="539" height="549"/>
+	<SubTexture name="USApyon Vader idle dance0000" x="3366" y="1143" width="539" height="549" pivotX="272" pivotY="276"/>
+	<SubTexture name="USApyon Vader idle dance0001" x="0" y="1714" width="539" height="549"/>
+	<SubTexture name="USApyon Vader idle dance0002" x="561" y="1714" width="539" height="549"/>
+</TextureAtlas>

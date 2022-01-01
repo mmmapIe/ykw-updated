@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey uh... what is that thing?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whoisthis",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whisper",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That seems to be another yo-kai!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait, there's more of you ghost thingies?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whisper",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's called a yo-kai..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whisper",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Whatever just use your yo-kai watch and find out what it is!"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Spooky-talky.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle spoopy oooo0000" x="0" y="0" width="395" height="361" pivotX="7.15" pivotY="17.9" frameX="0" frameY="-29" frameWidth="395" frameHeight="390"/>
+	<SubTexture name="idle spoopy oooo0001" x="0" y="0" width="395" height="361" frameX="0" frameY="-29" frameWidth="395" frameHeight="390"/>
+	<SubTexture name="idle spoopy oooo0002" x="395" y="0" width="385" height="363" frameX="-6" frameY="-27" frameWidth="395" frameHeight="390"/>
+	<SubTexture name="idle spoopy oooo0003" x="395" y="0" width="385" height="363" frameX="-6" frameY="-27" frameWidth="395" frameHeight="390"/>
+	<SubTexture name="idle spoopy oooo0004" x="780" y="0" width="377" height="367" frameX="-10" frameY="-23" frameWidth="395" frameHeight="390"/>
+	<SubTexture name="idle spoopy oooo0005" x="780" y="0" width="377" height="367" frameX="-10" frameY="-23" frameWidth="395" frameHeight="390"/>
+	<SubTexture name="idle spoopy oooo0006" x="1157" y="0" width="369" height="379" frameX="-14" frameY="-11" frameWidth="395" frameHeight="390"/>
+	<SubTexture name="idle spoopy oooo0007" x="1157" y="0" width="369" height="379" frameX="-14" frameY="-11" frameWidth="395" frameHeight="390"/>
+	<SubTexture name="idle spoopy oooo0008" x="1526" y="0" width="359" height="384" frameX="-19" frameY="-6" frameWidth="395" frameHeight="390"/>
+	<SubTexture name="idle spoopy oooo0009" x="1526" y="0" width="359" height="384" frameX="-19" frameY="-6" frameWidth="395" frameHeight="390"/>
+	<SubTexture name="idle spoopy oooo0010" x="0" y="384" width="367" height="390" frameX="-16" frameY="0" frameWidth="395" frameHeight="390"/>
+	<SubTexture name="idle spoopy oooo0011" x="0" y="384" width="367" height="390" frameX="-16" frameY="0" frameWidth="395" frameHeight="390"/>
+	<SubTexture name="idle spoopy oooo0012" x="367" y="384" width="374" height="377" frameX="-12" frameY="-13" frameWidth="395" frameHeight="390"/>
+	<SubTexture name="idle spoopy oooo0013" x="367" y="384" width="374" height="377" frameX="-12" frameY="-13" frameWidth="395" frameHeight="390"/>
+</TextureAtlas>

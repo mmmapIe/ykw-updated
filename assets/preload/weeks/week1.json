@@ -1,0 +1,28 @@
+{
+	"songs": [
+		["Charming", "jibanyan", [		229,
+		67,
+		46]],
+		["Nyantastic", "jibanyan", [		229,
+			67,
+			46]],
+		["Shogun", "shogunyan", [		105,
+			188,
+			191]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "fishplace",
+
+	"storyName": "Enter, Jibanyan!",
+	"weekBefore": "tutorial",
+	"weekName": "Lazy Ass Cat",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

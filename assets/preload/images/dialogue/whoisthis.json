@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.65,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-80,
+				-10
+			],
+			"idle_offsets": [
+				-81,
+				-11
+			],
+			"loop_name": "idle spoopy oooo",
+			"idle_name": "idle spoopy oooo0013"
+		}
+	],
+	"image": "Spooky-talky"
+}

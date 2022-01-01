@@ -1,0 +1,48 @@
+{
+	"storyName": "Bumpkin Trouble",
+	"hideFreeplay": false,
+	"weekBackground": "nomburger",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Swirls",
+			"komasan",
+			[
+				129,
+				223,
+				249
+			]
+		],
+		[
+			"Bumpkin",
+			"komasan",
+			[
+				129,
+				223,
+				249
+			]
+		],
+		[
+			"City-licker",
+			"kj",
+			[
+				238,
+				198,
+				103
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "The Bumpkin"
+}

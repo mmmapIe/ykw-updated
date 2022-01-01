@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Shuggy talky.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Shuggy talky0000" x="29" y="29" width="395" height="345" pivotX="7.15" pivotY="-20.55" frameX="0" frameY="-4" frameWidth="395" frameHeight="349"/>
+	<SubTexture name="Shuggy talky0001" x="29" y="29" width="395" height="345" frameX="0" frameY="-4" frameWidth="395" frameHeight="349"/>
+	<SubTexture name="Shuggy talky0002" x="453" y="29" width="385" height="349" frameX="-6" frameY="0" frameWidth="395" frameHeight="349"/>
+	<SubTexture name="Shuggy talky0003" x="453" y="29" width="385" height="349" frameX="-6" frameY="0" frameWidth="395" frameHeight="349"/>
+	<SubTexture name="Shuggy talky0004" x="29" y="407" width="385" height="349" frameX="-6" frameY="0" frameWidth="395" frameHeight="349"/>
+	<SubTexture name="Shuggy talky0005" x="29" y="407" width="385" height="349" frameX="-6" frameY="0" frameWidth="395" frameHeight="349"/>
+	<SubTexture name="Shuggy talky0006" x="443" y="407" width="385" height="349" frameX="-6" frameY="0" frameWidth="395" frameHeight="349"/>
+	<SubTexture name="Shuggy talky0007" x="443" y="407" width="385" height="349" frameX="-6" frameY="0" frameWidth="395" frameHeight="349"/>
+</TextureAtlas>

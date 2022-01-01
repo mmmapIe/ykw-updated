@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.75,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-120,
+				-10
+			],
+			"idle_offsets": [
+				-121,
+				-11
+			],
+			"loop_name": "Shuggy talky",
+			"idle_name": "Shuggy talky0007"
+		}
+	],
+	"image": "Shuggy_talky"
+}

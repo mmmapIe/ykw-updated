@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.35,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-230,
+				6
+			],
+			"idle_offsets": [
+				-230,
+				6
+			],
+			"loop_name": "Komasan Talk",
+			"idle_name": "Komasan Talk0000"
+		}
+	],
+	"image": "komasan_talk"
+}

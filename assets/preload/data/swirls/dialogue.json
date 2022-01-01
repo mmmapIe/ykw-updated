@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "komasan",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Oh my swirls!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "komasan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Can you help me find my brother Komajiro? He was supposed to be here a hour ago!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "No but I can rap with you!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "komasan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But I need to find komajiro! "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Im sure he will be here, hes probably just running late."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "While you are waiting we can rap!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What type of music should we use?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "komasan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I know a song! It's something I learned from mama before I left for the big city!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Lets hear it then!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "komasan",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Alright, Get ready!"
+		}
+	]
+}

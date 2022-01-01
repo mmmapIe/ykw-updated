@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="komasan talk.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Komasan Talk0000" x="45" y="45" width="261" height="417" pivotX="-18.15" pivotY="3.6" frameX="0" frameY="-4" frameWidth="261" frameHeight="421"/>
+	<SubTexture name="Komasan Talk0001" x="45" y="45" width="261" height="417" frameX="0" frameY="-4" frameWidth="261" frameHeight="421"/>
+	<SubTexture name="Komasan Talk0002" x="351" y="45" width="257" height="421" frameX="-2" frameY="0" frameWidth="261" frameHeight="421"/>
+	<SubTexture name="Komasan Talk0003" x="653" y="45" width="261" height="417" frameX="0" frameY="-4" frameWidth="261" frameHeight="421"/>
+	<SubTexture name="Komasan Talk0004" x="959" y="45" width="261" height="417" frameX="0" frameY="-4" frameWidth="261" frameHeight="421"/>
+	<SubTexture name="Komasan Talk0005" x="1265" y="45" width="261" height="417" frameX="0" frameY="-4" frameWidth="261" frameHeight="421"/>
+</TextureAtlas>

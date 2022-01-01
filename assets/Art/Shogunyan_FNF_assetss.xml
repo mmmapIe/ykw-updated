@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Shogunyan_FNF_assetss.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Shogunyan Note Down0000" x="0" y="0" width="488" height="381" pivotX="238" pivotY="255"/>
+	<SubTexture name="Shogunyan Note Down0001" x="0" y="0" width="488" height="381"/>
+	<SubTexture name="Shogunyan Note Down0002" x="510" y="0" width="488" height="381"/>
+	<SubTexture name="Shogunyan Note Down0003" x="510" y="0" width="488" height="381"/>
+	<SubTexture name="Shogunyan Note Down0004" x="510" y="0" width="488" height="381"/>
+	<SubTexture name="Shogunyan Idle0000" x="1020" y="0" width="490" height="381" pivotX="213" pivotY="146"/>
+	<SubTexture name="Shogunyan Idle0001" x="1020" y="0" width="490" height="381"/>
+	<SubTexture name="Shogunyan Idle0002" x="1532" y="0" width="490" height="381"/>
+	<SubTexture name="Shogunyan Idle0003" x="1532" y="0" width="490" height="381"/>
+	<SubTexture name="Shogunyan Idle0004" x="0" y="403" width="490" height="381"/>
+	<SubTexture name="Shogunyan Idle0005" x="0" y="403" width="490" height="381"/>
+	<SubTexture name="Shogunyan Idle0006" x="512" y="403" width="490" height="381"/>
+	<SubTexture name="Shogunyan Idle0007" x="512" y="403" width="490" height="381"/>
+	<SubTexture name="Shogunyan Idle0008" x="1024" y="403" width="490" height="381"/>
+	<SubTexture name="Shogunyan Idle0009" x="1024" y="403" width="490" height="381"/>
+	<SubTexture name="Shogunyan Idle0010" x="1536" y="403" width="490" height="381"/>
+	<SubTexture name="Shogunyan Idle0011" x="1536" y="403" width="490" height="381"/>
+	<SubTexture name="Shogunyan Idle0012" x="0" y="806" width="490" height="381"/>
+	<SubTexture name="Shogunyan Idle0013" x="0" y="806" width="490" height="381"/>
+	<SubTexture name="Shogunyan Idle0014" x="0" y="806" width="490" height="381"/>
+	<SubTexture name="Shogunyan Idle0015" x="0" y="806" width="490" height="381"/>
+	<SubTexture name="Shogunyan Idle0016" x="0" y="806" width="490" height="381"/>
+	<SubTexture name="Shogunyan Idle0017" x="0" y="806" width="490" height="381"/>
+	<SubTexture name="Shogunyan Note Left0000" x="512" y="806" width="488" height="381" pivotX="337" pivotY="368"/>
+	<SubTexture name="Shogunyan Note Left0001" x="1022" y="806" width="488" height="381"/>
+	<SubTexture name="Shogunyan Note Left0002" x="1022" y="806" width="488" height="381"/>
+	<SubTexture name="Shogunyan Note Left0003" x="1022" y="806" width="488" height="381"/>
+	<SubTexture name="Shogunyan Note Left0004" x="1532" y="806" width="488" height="381"/>
+	<SubTexture name="Shogunyan Note Left0005" x="1532" y="806" width="488" height="381"/>
+	<SubTexture name="Shogunyan Note Right0000" x="0" y="1209" width="488" height="381" pivotX="86" pivotY="162"/>
+	<SubTexture name="Shogunyan Note Right0001" x="510" y="1209" width="488" height="381"/>
+	<SubTexture name="Shogunyan Note Right0002" x="510" y="1209" width="488" height="381"/>
+	<SubTexture name="Shogunyan Note Right0003" x="0" y="1209" width="488" height="381"/>
+	<SubTexture name="Shogunyan Note Up0000" x="1020" y="1209" width="488" height="381" pivotX="341" pivotY="124"/>
+	<SubTexture name="Shogunyan Note Up0001" x="1530" y="1209" width="488" height="381"/>
+	<SubTexture name="Shogunyan Note Up0002" x="1530" y="1209" width="488" height="381"/>
+	<SubTexture name="Shogunyan Note Up0003" x="1530" y="1209" width="488" height="381"/>
+	<SubTexture name="Shogunyan Note Up0004" x="1020" y="1209" width="488" height="381"/>
+	<SubTexture name="Shogunyan Slice0000" x="0" y="1612" width="488" height="381" pivotX="202" pivotY="183"/>
+	<SubTexture name="Shogunyan Slice0001" x="0" y="1612" width="488" height="381"/>
+	<SubTexture name="Shogunyan Slice0002" x="510" y="1612" width="488" height="381"/>
+	<SubTexture name="Shogunyan Slice0003" x="510" y="1612" width="488" height="381"/>
+	<SubTexture name="Shogunyan Slice0004" x="1020" y="1612" width="488" height="381"/>
+	<SubTexture name="Shogunyan Slice0005" x="1530" y="1612" width="488" height="381"/>
+	<SubTexture name="Shogunyan Slice0006" x="1530" y="1612" width="488" height="381"/>
+	<SubTexture name="Shogunyan Slice0007" x="1530" y="1612" width="488" height="381"/>
+	<SubTexture name="Shogunyan Slice0008" x="1530" y="1612" width="488" height="381"/>
+</TextureAtlas>

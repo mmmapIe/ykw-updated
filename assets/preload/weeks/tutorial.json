@@ -1,0 +1,25 @@
+{
+	"storyName": "Welcome to the world of yo-kai!",
+	"hideFreeplay": false,
+	"weekBackground": "mtwildwood",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"corporeal-friend",
+			"whisper",
+			[
+				215,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Whisper"
+}

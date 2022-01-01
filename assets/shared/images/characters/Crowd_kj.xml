@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KJ.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Crowd  Instanz 10000" x="29" y="29" width="1996" height="862" pivotX="5.6" pivotY="15.15" frameX="0" frameY="-93" frameWidth="1996" frameHeight="955"/>
+	<SubTexture name="Crowd  Instanz 10001" x="29" y="29" width="1996" height="862" frameX="0" frameY="-93" frameWidth="1996" frameHeight="955"/>
+	<SubTexture name="Crowd  Instanz 10002" x="2054" y="29" width="1989" height="873" frameX="-4" frameY="-82" frameWidth="1996" frameHeight="955"/>
+	<SubTexture name="Crowd  Instanz 10003" x="2054" y="29" width="1989" height="873" frameX="-4" frameY="-82" frameWidth="1996" frameHeight="955"/>
+	<SubTexture name="Crowd  Instanz 10004" x="29" y="931" width="1979" height="909" frameX="-10" frameY="-46" frameWidth="1996" frameHeight="955"/>
+	<SubTexture name="Crowd  Instanz 10005" x="29" y="931" width="1979" height="909" frameX="-10" frameY="-46" frameWidth="1996" frameHeight="955"/>
+	<SubTexture name="Crowd  Instanz 10006" x="2037" y="931" width="1983" height="920" frameX="-6" frameY="-35" frameWidth="1996" frameHeight="955"/>
+	<SubTexture name="Crowd  Instanz 10007" x="2037" y="931" width="1983" height="920" frameX="-6" frameY="-35" frameWidth="1996" frameHeight="955"/>
+	<SubTexture name="Crowd  Instanz 10008" x="29" y="1880" width="1983" height="941" frameX="-6" frameY="-14" frameWidth="1996" frameHeight="955"/>
+	<SubTexture name="Crowd  Instanz 10009" x="29" y="1880" width="1983" height="941" frameX="-6" frameY="-14" frameWidth="1996" frameHeight="955"/>
+	<SubTexture name="Crowd  Instanz 10010" x="2041" y="1880" width="1983" height="949" frameX="-6" frameY="-6" frameWidth="1996" frameHeight="955"/>
+	<SubTexture name="Crowd  Instanz 10011" x="2041" y="1880" width="1983" height="949" frameX="-6" frameY="-6" frameWidth="1996" frameHeight="955"/>
+	<SubTexture name="Crowd  Instanz 10012" x="29" y="2858" width="1983" height="955" frameX="-6" frameY="0" frameWidth="1996" frameHeight="955"/>
+	<SubTexture name="Crowd  Instanz 10013" x="29" y="2858" width="1983" height="955" frameX="-6" frameY="0" frameWidth="1996" frameHeight="955"/>
+</TextureAtlas>

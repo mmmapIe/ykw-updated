@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfwalky.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bf go away0000" x="29" y="29" width="531" height="537" pivotX="-16.65" pivotY="25.55" frameX="-19" frameY="-25" frameWidth="577" frameHeight="569"/>
+	<SubTexture name="Bf go away0001" x="29" y="29" width="531" height="537" frameX="-19" frameY="-25" frameWidth="577" frameHeight="569"/>
+	<SubTexture name="Bf go away0002" x="589" y="29" width="508" height="556" frameX="-20" frameY="0" frameWidth="577" frameHeight="569"/>
+	<SubTexture name="Bf go away0003" x="589" y="29" width="508" height="556" frameX="-20" frameY="0" frameWidth="577" frameHeight="569"/>
+	<SubTexture name="Bf go away0004" x="1126" y="29" width="577" height="488" frameX="0" frameY="-77" frameWidth="577" frameHeight="569"/>
+	<SubTexture name="Bf go away0005" x="29" y="614" width="563" height="506" frameX="-11" frameY="-63" frameWidth="577" frameHeight="569"/>
+</TextureAtlas>

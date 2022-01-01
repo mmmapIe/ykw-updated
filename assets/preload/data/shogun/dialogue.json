@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "shogunyan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WHAT?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "oh no"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "BF WHAT DID YOU DO"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shogunyan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WHO DARES SUMMON I\\nTHE GREAT SHOGUNYAN"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "me"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whisper2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BOYFRIEND YOU SUMMONED A LEGENDARY YOKAI"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Shogunyan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Because i'm feeling generous, i'll make you a deal."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Shogunyan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If you can beat me in this little game, i'll forget this ever happened and give you my medal"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "And if I dont win?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shogunyan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You'll see."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I don't think we have a choice here.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "I'll do it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Shogunyan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Very well. Let us start."
+		}
+	]
+}

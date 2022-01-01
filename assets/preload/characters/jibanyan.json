@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-150,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "idle0"
+		},
+		{
+			"offsets": [
+				-145,
+				-72
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "nya",
+			"loop": false,
+			"name": "NYA"
+		},
+		{
+			"offsets": [
+				-150,
+				-114
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-148,
+				-72
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-158,
+				-77
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-79,
+				-76
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-151,
+				-41
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle spoopy"
+		},
+		{
+			"offsets": [
+				-150,
+				-66
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "reveal",
+			"loop": false,
+			"name": "wtf"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jibanyan",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "jibanyan",
+	"flip_x": false,
+	"healthbar_colors": [
+		229,
+		67,
+		46
+	],
+	"camera_position": [
+		140,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

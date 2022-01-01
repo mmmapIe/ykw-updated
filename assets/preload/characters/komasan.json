@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-90,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Komasan Idle"
+		},
+		{
+			"offsets": [
+				-69,
+				37
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Komasan Left"
+		},
+		{
+			"offsets": [
+				-99,
+				-27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Komasan Down"
+		},
+		{
+			"offsets": [
+				-99,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Komasan Up"
+		},
+		{
+			"offsets": [
+				-128,
+				28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Komasan Right"
+		},
+		{
+			"offsets": [
+				-100,
+				24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "oh my swirls",
+			"loop": false,
+			"name": "Oh my swirls"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/komasan",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "komasan",
+	"flip_x": false,
+	"healthbar_colors": [
+		129,
+		223,
+		249
+	],
+	"camera_position": [
+		140,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

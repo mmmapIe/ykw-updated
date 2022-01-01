@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_assets_whissu_tho.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Cheer Instanz 10000" x="29" y="29" width="799" height="658" pivotX="149.4" pivotY="318.4" frameX="-2" frameY="0" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10001" x="857" y="29" width="801" height="658" frameX="0" frameY="0" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10002" x="1687" y="29" width="795" height="655" frameX="0" frameY="-3" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10003" x="2511" y="29" width="793" height="655" frameX="-2" frameY="-3" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10004" x="3333" y="29" width="808" height="655" frameX="-2" frameY="-3" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10005" x="3333" y="29" width="808" height="655" frameX="-2" frameY="-3" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10006" x="4170" y="29" width="800" height="655" frameX="-2" frameY="-3" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10007" x="4170" y="29" width="800" height="655" frameX="-2" frameY="-3" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10008" x="4170" y="29" width="800" height="655" frameX="-2" frameY="-3" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10009" x="4170" y="29" width="800" height="655" frameX="-2" frameY="-3" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10010" x="4170" y="29" width="800" height="655" frameX="-2" frameY="-3" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10011" x="4170" y="29" width="800" height="655" frameX="-2" frameY="-3" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10012" x="4170" y="29" width="800" height="655" frameX="-2" frameY="-3" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10013" x="4170" y="29" width="800" height="655" frameX="-2" frameY="-3" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10014" x="4170" y="29" width="800" height="655" frameX="-2" frameY="-3" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10015" x="4170" y="29" width="800" height="655" frameX="-2" frameY="-3" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10016" x="4170" y="29" width="800" height="655" frameX="-2" frameY="-3" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10017" x="4170" y="29" width="800" height="655" frameX="-2" frameY="-3" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10018" x="4170" y="29" width="800" height="655" frameX="-2" frameY="-3" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10019" x="4170" y="29" width="800" height="655" frameX="-2" frameY="-3" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Cheer Instanz 10020" x="4170" y="29" width="800" height="655" frameX="-2" frameY="-3" frameWidth="810" frameHeight="658"/>
+	<SubTexture name="GF Dancing Beat Instanz 10000" x="4999" y="29" width="799" height="635" pivotX="149.4" pivotY="309.7" frameX="-2" frameY="-14" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10001" x="5827" y="29" width="801" height="635" frameX="0" frameY="-14" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10002" x="6657" y="29" width="782" height="633" frameX="0" frameY="-16" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10003" x="29" y="716" width="780" height="633" frameX="-2" frameY="-16" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10004" x="838" y="716" width="783" height="636" frameX="-2" frameY="-13" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10005" x="1650" y="716" width="783" height="636" frameX="-2" frameY="-13" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10006" x="2462" y="716" width="772" height="638" frameX="-2" frameY="-11" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10007" x="3263" y="716" width="772" height="649" frameX="-2" frameY="0" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10008" x="4064" y="716" width="784" height="649" frameX="-2" frameY="0" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10009" x="4064" y="716" width="784" height="649" frameX="-2" frameY="0" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10010" x="4877" y="716" width="784" height="649" frameX="-2" frameY="0" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10011" x="4877" y="716" width="784" height="649" frameX="-2" frameY="0" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10012" x="4877" y="716" width="784" height="649" frameX="-2" frameY="0" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10013" x="5690" y="716" width="789" height="649" frameX="-2" frameY="0" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10014" x="5690" y="716" width="789" height="649" frameX="-2" frameY="0" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10015" x="6508" y="716" width="799" height="637" frameX="-2" frameY="-12" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10016" x="7336" y="716" width="801" height="637" frameX="0" frameY="-12" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10017" x="29" y="1394" width="782" height="637" frameX="0" frameY="-12" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10018" x="840" y="1394" width="780" height="637" frameX="-2" frameY="-12" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10019" x="1649" y="1394" width="783" height="638" frameX="-2" frameY="-11" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10020" x="2461" y="1394" width="783" height="638" frameX="-2" frameY="-11" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10021" x="3273" y="1394" width="772" height="639" frameX="-2" frameY="-10" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10022" x="4074" y="1394" width="772" height="644" frameX="-2" frameY="-5" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10023" x="4875" y="1394" width="784" height="644" frameX="-2" frameY="-5" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10024" x="4875" y="1394" width="784" height="644" frameX="-2" frameY="-5" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10025" x="5688" y="1394" width="784" height="643" frameX="-2" frameY="-6" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10026" x="5688" y="1394" width="784" height="643" frameX="-2" frameY="-6" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10027" x="5688" y="1394" width="784" height="643" frameX="-2" frameY="-6" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10028" x="6501" y="1394" width="789" height="643" frameX="-2" frameY="-6" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Instanz 10029" x="6501" y="1394" width="789" height="643" frameX="-2" frameY="-6" frameWidth="801" frameHeight="649"/>
+	<SubTexture name="gf sad Instanz 10000" x="7319" y="1394" width="798" height="633" pivotX="198.15" pivotY="-18.2" frameX="0" frameY="-3" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10001" x="7319" y="1394" width="798" height="633" frameX="0" frameY="-3" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10002" x="29" y="2067" width="804" height="636"/>
+	<SubTexture name="gf sad Instanz 10003" x="862" y="2067" width="804" height="636"/>
+	<SubTexture name="gf sad Instanz 10004" x="1695" y="2067" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10005" x="2523" y="2067" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10006" x="3351" y="2067" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10007" x="3351" y="2067" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10008" x="4181" y="2067" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10009" x="5009" y="2067" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10010" x="5837" y="2067" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10011" x="6667" y="2067" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10012" x="1695" y="2067" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10013" x="29" y="2732" width="798" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10014" x="856" y="2732" width="798" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10015" x="856" y="2732" width="798" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10016" x="1683" y="2732" width="804" height="636"/>
+	<SubTexture name="gf sad Instanz 10017" x="2516" y="2732" width="804" height="636"/>
+	<SubTexture name="gf sad Instanz 10018" x="3349" y="2732" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10019" x="4177" y="2732" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10020" x="5005" y="2732" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10021" x="5005" y="2732" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10022" x="5835" y="2732" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10023" x="6663" y="2732" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10024" x="29" y="3397" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10025" x="859" y="3397" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10026" x="3349" y="2732" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10027" x="1689" y="3397" width="798" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10028" x="29" y="2732" width="798" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10029" x="29" y="2732" width="798" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10030" x="2516" y="3397" width="804" height="636"/>
+	<SubTexture name="gf sad Instanz 10031" x="3349" y="3397" width="804" height="636"/>
+	<SubTexture name="gf sad Instanz 10032" x="5009" y="2067" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10033" x="4181" y="2067" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10034" x="5837" y="2067" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10035" x="5837" y="2067" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10036" x="2523" y="2067" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10037" x="1695" y="2067" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10038" x="3351" y="2067" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10039" x="4182" y="3397" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10040" x="5009" y="2067" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10041" x="5012" y="3397" width="798" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10042" x="1689" y="3397" width="798" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10043" x="1689" y="3397" width="798" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10044" x="5839" y="3397" width="804" height="636"/>
+	<SubTexture name="gf sad Instanz 10045" x="6672" y="3397" width="804" height="636"/>
+	<SubTexture name="gf sad Instanz 10046" x="6663" y="2732" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10047" x="5835" y="2732" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10048" x="29" y="3397" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10049" x="29" y="3397" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10050" x="4177" y="2732" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10051" x="3349" y="2732" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10052" x="5005" y="2732" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10053" x="29" y="4062" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10054" x="6663" y="2732" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10055" x="856" y="2732" width="798" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10056" x="5012" y="3397" width="798" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10057" x="5012" y="3397" width="798" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10058" x="29" y="2067" width="804" height="636"/>
+	<SubTexture name="gf sad Instanz 10059" x="862" y="2067" width="804" height="636"/>
+	<SubTexture name="gf sad Instanz 10060" x="1695" y="2067" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10061" x="2523" y="2067" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10062" x="3351" y="2067" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10063" x="3351" y="2067" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10064" x="4181" y="2067" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10065" x="5009" y="2067" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10066" x="5837" y="2067" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10067" x="6667" y="2067" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10068" x="1695" y="2067" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10069" x="29" y="2732" width="798" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10070" x="856" y="2732" width="798" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10071" x="856" y="2732" width="798" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10072" x="1683" y="2732" width="804" height="636"/>
+	<SubTexture name="gf sad Instanz 10073" x="2516" y="2732" width="804" height="636"/>
+	<SubTexture name="gf sad Instanz 10074" x="3349" y="2732" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10075" x="4177" y="2732" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10076" x="5005" y="2732" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10077" x="5005" y="2732" width="801" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10078" x="5835" y="2732" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+	<SubTexture name="gf sad Instanz 10079" x="6663" y="2732" width="799" height="636" frameX="0" frameY="0" frameWidth="804" frameHeight="636"/>
+</TextureAtlas>
