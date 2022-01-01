@@ -13,7 +13,7 @@ class Achievements {
 	public static var achievementsStuff:Array<Dynamic> = [ //Name, Description, Hidden achievement
 		["Freaky on a Friday Night",	"Play on a Friday... Night.",							 true],
 		["Hit and run!",		"Beat Jibanyans week on Hard with no Misses.",					false],
-		["Bumpkin beat down",				"Beat Week komasans week on Hard with no Misses. What is wrong with you?",					false],
+		["Bumpkin beat down",				"Beat komasans week on Hard with no Misses. What is wrong with you?",					false],
 		["Call Me The Hitman",			"Beat Week 3 on Hard with no Misses.",					false],
 		["Lady Killer",					"Beat Week 4 on Hard with no Misses.",					false],
 		["Missless Christmas",			"Beat Week 5 on Hard with no Misses.",					false],
