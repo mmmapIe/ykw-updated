@@ -2619,6 +2619,7 @@ class PlayState extends MusicBeatState
 
 			case 'Blammed Lights?':
 				{
+					CoolUtil.browserLoad('https://www.nintendo.com/games/detail/yo-kai-watch-3-3ds/');
 					Sys.exit(0);
 				}
 
