@@ -62,7 +62,7 @@ class PlayState extends MusicBeatState
 	public static var STRUM_X_MIDDLESCROLL = -278;
 
 	public static var ratingStuff:Array<Dynamic> = [
-		['You Suck!', 0.2], //From 0% to 19%
+		['Its not overcharted youre just bad', 0.2], //From 0% to 19%
 		['Shit', 0.4], //From 20% to 39%
 		['Bad', 0.5], //From 40% to 49%
 		['Bruh', 0.6], //From 50% to 59%
@@ -191,6 +191,7 @@ class PlayState extends MusicBeatState
 	var limoKillingState:Int = 0;
 	var limo:BGSprite;
 	var limoMetalPole:BGSprite;
+	var treeshit:BGSprite;
 	var limoLight:BGSprite;
 	var limoCorpse:BGSprite;
 	var limoCorpseTwo:BGSprite;
@@ -394,10 +395,10 @@ class PlayState extends MusicBeatState
 				
 
 				case 'nom burger': //komasan
-				var bg:BGSprite = new BGSprite('nom burger/city', -800, -1000, 0.9, 0.9);
+				var bg:BGSprite = new BGSprite('nom burger/city', -400, -1000, 0.9, 0.9);
 				add(bg);
 
-				var stageFront:BGSprite = new BGSprite('nom burger/the place itself', -2680, -340, 0.9, 0.9);
+				var stageFront:BGSprite = new BGSprite('nom burger/the place itself', -2080, -340, 0.9, 0.9);
 				stageFront.setGraphicSize(Std.int(stageFront.width * 1.1));
 				stageFront.updateHitbox();
 				add(stageFront);

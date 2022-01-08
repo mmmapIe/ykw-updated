@@ -2,7 +2,7 @@
 <TextureAtlas imagePath="snartle.png">
 	<!-- Created with Adobe Animate version 21.0.5.40714 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Snartle Idle instance 10000" x="0" y="0" width="601" height="480" pivotX="2.7" pivotY="-2.05" frameX="-2" frameY="-8" frameWidth="610" frameHeight="488"/>
+	<SubTexture name="Snartle Idle instance 10000" x="0" y="0" width="601" height="480" frameX="-2" frameY="-8" frameWidth="610" frameHeight="488"/>
 	<SubTexture name="Snartle Idle instance 10001" x="601" y="0" width="599" height="480" frameX="-3" frameY="-8" frameWidth="610" frameHeight="488"/>
 	<SubTexture name="Snartle Idle instance 10002" x="1200" y="0" width="600" height="472" frameX="0" frameY="-16" frameWidth="610" frameHeight="488"/>
 	<SubTexture name="Snartle Idle instance 10003" x="1800" y="0" width="600" height="472" frameX="0" frameY="-16" frameWidth="610" frameHeight="488"/>
@@ -17,7 +17,7 @@
 	<SubTexture name="Snartle Idle instance 10012" x="0" y="968" width="609" height="488" frameX="0" frameY="0" frameWidth="610" frameHeight="488"/>
 	<SubTexture name="Snartle Idle instance 10013" x="609" y="968" width="609" height="488" frameX="0" frameY="0" frameWidth="610" frameHeight="488"/>
 	<SubTexture name="Snartle Idle instance 10014" x="1216" y="480" width="610" height="488"/>
-	<SubTexture name="down instance 10000" x="1218" y="968" width="603" height="398" pivotX="-26.2" pivotY="-25.15" frameX="0" frameY="0" frameWidth="611" frameHeight="398"/>
+	<SubTexture name="down instance 10000" x="1218" y="968" width="603" height="398" frameX="0" frameY="0" frameWidth="611" frameHeight="398"/>
 	<SubTexture name="down instance 10001" x="1821" y="968" width="603" height="398" frameX="0" frameY="0" frameWidth="611" frameHeight="398"/>
 	<SubTexture name="down instance 10002" x="2424" y="968" width="603" height="384" frameX="-8" frameY="-9" frameWidth="611" frameHeight="398"/>
 	<SubTexture name="down instance 10003" x="3027" y="968" width="603" height="384" frameX="-8" frameY="-9" frameWidth="611" frameHeight="398"/>
@@ -48,7 +48,7 @@
 	<SubTexture name="down instance 10028" x="1809" y="1456" width="603" height="384" frameX="-8" frameY="-9" frameWidth="611" frameHeight="398"/>
 	<SubTexture name="down instance 10029" x="0" y="1840" width="603" height="384" frameX="-8" frameY="-9" frameWidth="611" frameHeight="398"/>
 	<SubTexture name="down instance 10030" x="1206" y="1456" width="603" height="384" frameX="-8" frameY="-9" frameWidth="611" frameHeight="398"/>
-	<SubTexture name="left instance 10000" x="603" y="1840" width="624" height="415" pivotX="338.85" pivotY="568.8" frameX="-4" frameY="-3" frameWidth="628" frameHeight="420"/>
+	<SubTexture name="left instance 10000" x="603" y="1840" width="624" height="415" frameX="-4" frameY="-3" frameWidth="628" frameHeight="420"/>
 	<SubTexture name="left instance 10001" x="1227" y="1840" width="622" height="414" frameX="-5" frameY="-4" frameWidth="628" frameHeight="420"/>
 	<SubTexture name="left instance 10002" x="1849" y="1840" width="612" height="419" frameX="0" frameY="-1" frameWidth="628" frameHeight="420"/>
 	<SubTexture name="left instance 10003" x="2461" y="1840" width="613" height="420" frameX="0" frameY="0" frameWidth="628" frameHeight="420"/>
@@ -79,7 +79,7 @@
 	<SubTexture name="left instance 10028" x="3074" y="1840" width="613" height="419" frameX="0" frameY="-1" frameWidth="628" frameHeight="420"/>
 	<SubTexture name="left instance 10029" x="1838" y="2260" width="612" height="419" frameX="0" frameY="-1" frameWidth="628" frameHeight="420"/>
 	<SubTexture name="left instance 10030" x="612" y="2260" width="613" height="420" frameX="0" frameY="0" frameWidth="628" frameHeight="420"/>
-	<SubTexture name="right instance 10000" x="0" y="2680" width="471" height="413" pivotX="98.15" pivotY="260.9" frameX="-1" frameY="-1" frameWidth="478" frameHeight="421"/>
+	<SubTexture name="right instance 10000" x="0" y="2680" width="471" height="413" frameX="-1" frameY="-1" frameWidth="478" frameHeight="421"/>
 	<SubTexture name="right instance 10001" x="471" y="2680" width="470" height="413" frameX="-3" frameY="-2" frameWidth="478" frameHeight="421"/>
 	<SubTexture name="right instance 10002" x="941" y="2680" width="477" height="420" frameX="-1" frameY="0" frameWidth="478" frameHeight="421"/>
 	<SubTexture name="right instance 10003" x="1418" y="2680" width="477" height="420" frameX="0" frameY="0" frameWidth="478" frameHeight="421"/>
@@ -110,7 +110,7 @@
 	<SubTexture name="right instance 10028" x="954" y="3101" width="476" height="421" frameX="-2" frameY="0" frameWidth="478" frameHeight="421"/>
 	<SubTexture name="right instance 10029" x="2371" y="2680" width="477" height="420" frameX="-1" frameY="0" frameWidth="478" frameHeight="421"/>
 	<SubTexture name="right instance 10030" x="477" y="3101" width="477" height="420" frameX="0" frameY="0" frameWidth="478" frameHeight="421"/>
-	<SubTexture name="up instance 10000" x="1430" y="3101" width="517" height="380" pivotX="-1.35" pivotY="-6.1" frameX="-6" frameY="0" frameWidth="524" frameHeight="386"/>
+	<SubTexture name="up instance 10000" x="1430" y="3101" width="517" height="380" frameX="-6" frameY="0" frameWidth="524" frameHeight="386"/>
 	<SubTexture name="up instance 10001" x="1947" y="3101" width="517" height="380" frameX="-6" frameY="0" frameWidth="524" frameHeight="386"/>
 	<SubTexture name="up instance 10002" x="2464" y="3101" width="524" height="378" frameX="0" frameY="-8" frameWidth="524" frameHeight="386"/>
 	<SubTexture name="up instance 10003" x="2988" y="3101" width="524" height="378" frameX="0" frameY="-8" frameWidth="524" frameHeight="386"/>

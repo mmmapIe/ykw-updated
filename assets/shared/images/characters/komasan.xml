@@ -2,66 +2,100 @@
 <TextureAtlas imagePath="komasan.png">
 	<!-- Created with Adobe Animate version 19.2.1.408 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Komasan Down0000" x="45" y="45" width="271" height="362" pivotX="-30.15" pivotY="-55.55" frameX="-5" frameY="0" frameWidth="286" frameHeight="362"/>
-	<SubTexture name="Komasan Down0001" x="45" y="45" width="271" height="362" frameX="-5" frameY="0" frameWidth="286" frameHeight="362"/>
-	<SubTexture name="Komasan Down0002" x="361" y="45" width="286" height="350" frameX="0" frameY="-12" frameWidth="286" frameHeight="362"/>
-	<SubTexture name="Komasan Down0003" x="361" y="45" width="286" height="350" frameX="0" frameY="-12" frameWidth="286" frameHeight="362"/>
-	<SubTexture name="Komasan Down0004" x="692" y="45" width="278" height="355" frameX="-1" frameY="-7" frameWidth="286" frameHeight="362"/>
-	<SubTexture name="Komasan Down0005" x="692" y="45" width="278" height="355" frameX="-1" frameY="-7" frameWidth="286" frameHeight="362"/>
-	<SubTexture name="Komasan Idle0000" x="1015" y="45" width="267" height="402" pivotX="-18.3" pivotY="-1.05" frameX="-7" frameY="-15" frameWidth="274" frameHeight="417"/>
-	<SubTexture name="Komasan Idle0001" x="1015" y="45" width="267" height="402" frameX="-7" frameY="-15" frameWidth="274" frameHeight="417"/>
-	<SubTexture name="Komasan Idle0002" x="1327" y="45" width="258" height="409" frameX="-7" frameY="-8" frameWidth="274" frameHeight="417"/>
-	<SubTexture name="Komasan Idle0003" x="1327" y="45" width="258" height="409" frameX="-7" frameY="-8" frameWidth="274" frameHeight="417"/>
-	<SubTexture name="Komasan Idle0004" x="1630" y="45" width="257" height="417" frameX="-6" frameY="0" frameWidth="274" frameHeight="417"/>
-	<SubTexture name="Komasan Idle0005" x="1630" y="45" width="257" height="417" frameX="-6" frameY="0" frameWidth="274" frameHeight="417"/>
-	<SubTexture name="Komasan Idle0006" x="1932" y="45" width="258" height="417" frameX="-3" frameY="0" frameWidth="274" frameHeight="417"/>
-	<SubTexture name="Komasan Idle0007" x="1932" y="45" width="258" height="417" frameX="-3" frameY="0" frameWidth="274" frameHeight="417"/>
-	<SubTexture name="Komasan Idle0008" x="2235" y="45" width="260" height="417" frameX="-1" frameY="0" frameWidth="274" frameHeight="417"/>
-	<SubTexture name="Komasan Idle0009" x="2235" y="45" width="260" height="417" frameX="-1" frameY="0" frameWidth="274" frameHeight="417"/>
-	<SubTexture name="Komasan Idle0010" x="2540" y="45" width="261" height="417" frameX="0" frameY="0" frameWidth="274" frameHeight="417"/>
-	<SubTexture name="Komasan Idle0011" x="2540" y="45" width="261" height="417" frameX="0" frameY="0" frameWidth="274" frameHeight="417"/>
-	<SubTexture name="Komasan Idle0012" x="2540" y="45" width="261" height="417" frameX="0" frameY="0" frameWidth="274" frameHeight="417"/>
-	<SubTexture name="Komasan Idle0013" x="2540" y="45" width="261" height="417" frameX="0" frameY="0" frameWidth="274" frameHeight="417"/>
-	<SubTexture name="Komasan Left0000" x="2846" y="45" width="238" height="426" pivotX="-227.4" pivotY="8.5" frameX="-12" frameY="0" frameWidth="250" frameHeight="426"/>
-	<SubTexture name="Komasan Left0001" x="2846" y="45" width="238" height="426" frameX="-12" frameY="0" frameWidth="250" frameHeight="426"/>
-	<SubTexture name="Komasan Left0002" x="3129" y="45" width="239" height="425" frameX="-6" frameY="-1" frameWidth="250" frameHeight="426"/>
-	<SubTexture name="Komasan Left0003" x="3129" y="45" width="239" height="425" frameX="-6" frameY="-1" frameWidth="250" frameHeight="426"/>
-	<SubTexture name="Komasan Left0004" x="3413" y="45" width="244" height="420" frameX="0" frameY="-6" frameWidth="250" frameHeight="426"/>
-	<SubTexture name="Komasan Left0005" x="3413" y="45" width="244" height="420" frameX="0" frameY="-6" frameWidth="250" frameHeight="426"/>
-	<SubTexture name="Komasan Left0006" x="3413" y="45" width="244" height="420" frameX="0" frameY="-6" frameWidth="250" frameHeight="426"/>
-	<SubTexture name="Komasan Left0007" x="3413" y="45" width="244" height="420" frameX="0" frameY="-6" frameWidth="250" frameHeight="426"/>
-	<SubTexture name="Komasan Left0008" x="3413" y="45" width="244" height="420" frameX="0" frameY="-6" frameWidth="250" frameHeight="426"/>
-	<SubTexture name="Komasan Left0009" x="3413" y="45" width="244" height="420" frameX="0" frameY="-6" frameWidth="250" frameHeight="426"/>
-	<SubTexture name="Komasan Left0010" x="3413" y="45" width="244" height="420" frameX="0" frameY="-6" frameWidth="250" frameHeight="426"/>
-	<SubTexture name="Komasan Left0011" x="3413" y="45" width="244" height="420" frameX="0" frameY="-6" frameWidth="250" frameHeight="426"/>
-	<SubTexture name="Komasan Left0012" x="3413" y="45" width="244" height="420" frameX="0" frameY="-6" frameWidth="250" frameHeight="426"/>
-	<SubTexture name="Komasan Left0013" x="3413" y="45" width="244" height="420" frameX="0" frameY="-6" frameWidth="250" frameHeight="426"/>
-	<SubTexture name="Komasan Right0000" x="3702" y="45" width="281" height="407" pivotX="-60.75" pivotY="-11.9" frameX="0" frameY="0" frameWidth="298" frameHeight="407"/>
-	<SubTexture name="Komasan Right0001" x="3702" y="45" width="281" height="407" frameX="0" frameY="0" frameWidth="298" frameHeight="407"/>
-	<SubTexture name="Komasan Right0002" x="45" y="516" width="284" height="404" frameX="-5" frameY="-3" frameWidth="298" frameHeight="407"/>
-	<SubTexture name="Komasan Right0003" x="45" y="516" width="284" height="404" frameX="-5" frameY="-3" frameWidth="298" frameHeight="407"/>
-	<SubTexture name="Komasan Right0004" x="374" y="516" width="292" height="401" frameX="-6" frameY="-6" frameWidth="298" frameHeight="407"/>
-	<SubTexture name="Komasan Right0005" x="374" y="516" width="292" height="401" frameX="-6" frameY="-6" frameWidth="298" frameHeight="407"/>
-	<SubTexture name="Komasan Up0000" x="711" y="516" width="259" height="423" pivotX="-21.6" pivotY="24.15" frameX="-1" frameY="-19" frameWidth="260" frameHeight="442"/>
-	<SubTexture name="Komasan Up0001" x="711" y="516" width="259" height="423" frameX="-1" frameY="-19" frameWidth="260" frameHeight="442"/>
-	<SubTexture name="Komasan Up0002" x="1015" y="516" width="255" height="433" frameX="0" frameY="-9" frameWidth="260" frameHeight="442"/>
-	<SubTexture name="Komasan Up0003" x="1015" y="516" width="255" height="433" frameX="0" frameY="-9" frameWidth="260" frameHeight="442"/>
-	<SubTexture name="Komasan Up0004" x="1315" y="516" width="247" height="442" frameX="-3" frameY="0" frameWidth="260" frameHeight="442"/>
-	<SubTexture name="Komasan Up0005" x="1315" y="516" width="247" height="442" frameX="-3" frameY="0" frameWidth="260" frameHeight="442"/>
-	<SubTexture name="Komasan Up0006" x="1315" y="516" width="247" height="442" frameX="-3" frameY="0" frameWidth="260" frameHeight="442"/>
-	<SubTexture name="Komasan Up0007" x="1315" y="516" width="247" height="442" frameX="-3" frameY="0" frameWidth="260" frameHeight="442"/>
-	<SubTexture name="Komasan Up0008" x="1315" y="516" width="247" height="442" frameX="-3" frameY="0" frameWidth="260" frameHeight="442"/>
-	<SubTexture name="Komasan Up0009" x="1315" y="516" width="247" height="442" frameX="-3" frameY="0" frameWidth="260" frameHeight="442"/>
-	<SubTexture name="Komasan Up0010" x="1315" y="516" width="247" height="442" frameX="-3" frameY="0" frameWidth="260" frameHeight="442"/>
-	<SubTexture name="Komasan Up0011" x="1315" y="516" width="247" height="442" frameX="-3" frameY="0" frameWidth="260" frameHeight="442"/>
-	<SubTexture name="Komasan Up0012" x="1315" y="516" width="247" height="442" frameX="-3" frameY="0" frameWidth="260" frameHeight="442"/>
-	<SubTexture name="Komasan Up0013" x="1315" y="516" width="247" height="442" frameX="-3" frameY="0" frameWidth="260" frameHeight="442"/>
-	<SubTexture name="Oh my swirls0000" x="1607" y="516" width="279" height="401" pivotX="-29.65" pivotY="-14.35" frameX="-17" frameY="-3" frameWidth="308" frameHeight="404"/>
-	<SubTexture name="Oh my swirls0001" x="1931" y="516" width="281" height="401" frameX="-15" frameY="-3" frameWidth="308" frameHeight="404"/>
-	<SubTexture name="Oh my swirls0002" x="2257" y="516" width="295" height="397" frameX="-13" frameY="-7" frameWidth="308" frameHeight="404"/>
-	<SubTexture name="Oh my swirls0003" x="2597" y="516" width="293" height="397" frameX="-15" frameY="-7" frameWidth="308" frameHeight="404"/>
-	<SubTexture name="Oh my swirls0004" x="2935" y="516" width="281" height="401" frameX="-12" frameY="-3" frameWidth="308" frameHeight="404"/>
-	<SubTexture name="Oh my swirls0005" x="3261" y="516" width="283" height="401" frameX="-10" frameY="-3" frameWidth="308" frameHeight="404"/>
-	<SubTexture name="Oh my swirls0006" x="3589" y="516" width="279" height="404" frameX="0" frameY="0" frameWidth="308" frameHeight="404"/>
-	<SubTexture name="Oh my swirls0007" x="45" y="1003" width="268" height="404" frameX="-11" frameY="0" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="Komasan Down0000" x="29" y="29" width="271" height="362" pivotX="-30.15" pivotY="-55.55" frameX="-5" frameY="0" frameWidth="286" frameHeight="362"/>
+	<SubTexture name="Komasan Down0001" x="29" y="29" width="271" height="362" frameX="-5" frameY="0" frameWidth="286" frameHeight="362"/>
+	<SubTexture name="Komasan Down0002" x="329" y="29" width="286" height="350" frameX="0" frameY="-12" frameWidth="286" frameHeight="362"/>
+	<SubTexture name="Komasan Down0003" x="329" y="29" width="286" height="350" frameX="0" frameY="-12" frameWidth="286" frameHeight="362"/>
+	<SubTexture name="Komasan Down0004" x="644" y="29" width="278" height="355" frameX="-1" frameY="-7" frameWidth="286" frameHeight="362"/>
+	<SubTexture name="Komasan Down0005" x="644" y="29" width="278" height="355" frameX="-1" frameY="-7" frameWidth="286" frameHeight="362"/>
+	<SubTexture name="Komasan Idle0000" x="29" y="420" width="267" height="402" pivotX="-18.3" pivotY="-1.05" frameX="-7" frameY="-15" frameWidth="274" frameHeight="417"/>
+	<SubTexture name="Komasan Idle0001" x="29" y="420" width="267" height="402" frameX="-7" frameY="-15" frameWidth="274" frameHeight="417"/>
+	<SubTexture name="Komasan Idle0002" x="325" y="420" width="258" height="409" frameX="-7" frameY="-8" frameWidth="274" frameHeight="417"/>
+	<SubTexture name="Komasan Idle0003" x="325" y="420" width="258" height="409" frameX="-7" frameY="-8" frameWidth="274" frameHeight="417"/>
+	<SubTexture name="Komasan Idle0004" x="612" y="420" width="257" height="417" frameX="-6" frameY="0" frameWidth="274" frameHeight="417"/>
+	<SubTexture name="Komasan Idle0005" x="612" y="420" width="257" height="417" frameX="-6" frameY="0" frameWidth="274" frameHeight="417"/>
+	<SubTexture name="Komasan Idle0006" x="29" y="866" width="258" height="417" frameX="-3" frameY="0" frameWidth="274" frameHeight="417"/>
+	<SubTexture name="Komasan Idle0007" x="29" y="866" width="258" height="417" frameX="-3" frameY="0" frameWidth="274" frameHeight="417"/>
+	<SubTexture name="Komasan Idle0008" x="316" y="866" width="260" height="417" frameX="-1" frameY="0" frameWidth="274" frameHeight="417"/>
+	<SubTexture name="Komasan Idle0009" x="316" y="866" width="260" height="417" frameX="-1" frameY="0" frameWidth="274" frameHeight="417"/>
+	<SubTexture name="Komasan Idle0010" x="605" y="866" width="261" height="417" frameX="0" frameY="0" frameWidth="274" frameHeight="417"/>
+	<SubTexture name="Komasan Idle0011" x="605" y="866" width="261" height="417" frameX="0" frameY="0" frameWidth="274" frameHeight="417"/>
+	<SubTexture name="Komasan Idle0012" x="605" y="866" width="261" height="417" frameX="0" frameY="0" frameWidth="274" frameHeight="417"/>
+	<SubTexture name="Komasan Idle0013" x="605" y="866" width="261" height="417" frameX="0" frameY="0" frameWidth="274" frameHeight="417"/>
+	<SubTexture name="Komasan Left0000" x="29" y="1312" width="238" height="426" pivotX="-227.4" pivotY="8.5" frameX="-12" frameY="0" frameWidth="250" frameHeight="426"/>
+	<SubTexture name="Komasan Left0001" x="29" y="1312" width="238" height="426" frameX="-12" frameY="0" frameWidth="250" frameHeight="426"/>
+	<SubTexture name="Komasan Left0002" x="296" y="1312" width="239" height="425" frameX="-6" frameY="-1" frameWidth="250" frameHeight="426"/>
+	<SubTexture name="Komasan Left0003" x="296" y="1312" width="239" height="425" frameX="-6" frameY="-1" frameWidth="250" frameHeight="426"/>
+	<SubTexture name="Komasan Left0004" x="564" y="1312" width="244" height="420" frameX="0" frameY="-6" frameWidth="250" frameHeight="426"/>
+	<SubTexture name="Komasan Left0005" x="564" y="1312" width="244" height="420" frameX="0" frameY="-6" frameWidth="250" frameHeight="426"/>
+	<SubTexture name="Komasan Left0006" x="29" y="1312" width="238" height="426" frameX="-12" frameY="0" frameWidth="250" frameHeight="426"/>
+	<SubTexture name="Komasan Left0007" x="29" y="1312" width="238" height="426" frameX="-12" frameY="0" frameWidth="250" frameHeight="426"/>
+	<SubTexture name="Komasan Left0008" x="29" y="1312" width="238" height="426" frameX="-12" frameY="0" frameWidth="250" frameHeight="426"/>
+	<SubTexture name="Komasan Left0009" x="29" y="1312" width="238" height="426" frameX="-12" frameY="0" frameWidth="250" frameHeight="426"/>
+	<SubTexture name="Komasan Left0010" x="29" y="1312" width="238" height="426" frameX="-12" frameY="0" frameWidth="250" frameHeight="426"/>
+	<SubTexture name="Komasan Left0011" x="29" y="1312" width="238" height="426" frameX="-12" frameY="0" frameWidth="250" frameHeight="426"/>
+	<SubTexture name="Komasan Left0012" x="29" y="1312" width="238" height="426" frameX="-12" frameY="0" frameWidth="250" frameHeight="426"/>
+	<SubTexture name="Komasan Left0013" x="29" y="1312" width="238" height="426" frameX="-12" frameY="0" frameWidth="250" frameHeight="426"/>
+	<SubTexture name="Komasan Right0000" x="29" y="1767" width="281" height="407" pivotX="-60.75" pivotY="-11.9" frameX="0" frameY="0" frameWidth="298" frameHeight="407"/>
+	<SubTexture name="Komasan Right0001" x="29" y="1767" width="281" height="407" frameX="0" frameY="0" frameWidth="298" frameHeight="407"/>
+	<SubTexture name="Komasan Right0002" x="339" y="1767" width="284" height="404" frameX="-5" frameY="-3" frameWidth="298" frameHeight="407"/>
+	<SubTexture name="Komasan Right0003" x="339" y="1767" width="284" height="404" frameX="-5" frameY="-3" frameWidth="298" frameHeight="407"/>
+	<SubTexture name="Komasan Right0004" x="652" y="1767" width="292" height="401" frameX="-6" frameY="-6" frameWidth="298" frameHeight="407"/>
+	<SubTexture name="Komasan Right0005" x="652" y="1767" width="292" height="401" frameX="-6" frameY="-6" frameWidth="298" frameHeight="407"/>
+	<SubTexture name="Komasan Right0006" x="29" y="1767" width="281" height="407" frameX="0" frameY="0" frameWidth="298" frameHeight="407"/>
+	<SubTexture name="Komasan Right0007" x="29" y="1767" width="281" height="407" frameX="0" frameY="0" frameWidth="298" frameHeight="407"/>
+	<SubTexture name="Komasan Up0000" x="29" y="2203" width="259" height="423" pivotX="-21.6" pivotY="24.15" frameX="-1" frameY="-19" frameWidth="260" frameHeight="442"/>
+	<SubTexture name="Komasan Up0001" x="29" y="2203" width="259" height="423" frameX="-1" frameY="-19" frameWidth="260" frameHeight="442"/>
+	<SubTexture name="Komasan Up0002" x="317" y="2203" width="255" height="433" frameX="0" frameY="-9" frameWidth="260" frameHeight="442"/>
+	<SubTexture name="Komasan Up0003" x="317" y="2203" width="255" height="433" frameX="0" frameY="-9" frameWidth="260" frameHeight="442"/>
+	<SubTexture name="Komasan Up0004" x="601" y="2203" width="247" height="442" frameX="-3" frameY="0" frameWidth="260" frameHeight="442"/>
+	<SubTexture name="Komasan Up0005" x="601" y="2203" width="247" height="442" frameX="-3" frameY="0" frameWidth="260" frameHeight="442"/>
+	<SubTexture name="Komasan Up0006" x="29" y="2203" width="259" height="423" frameX="-1" frameY="-19" frameWidth="260" frameHeight="442"/>
+	<SubTexture name="Komasan Up0007" x="29" y="2203" width="259" height="423" frameX="-1" frameY="-19" frameWidth="260" frameHeight="442"/>
+	<SubTexture name="Komasan Up0008" x="29" y="2203" width="259" height="423" frameX="-1" frameY="-19" frameWidth="260" frameHeight="442"/>
+	<SubTexture name="Komasan Up0009" x="29" y="2203" width="259" height="423" frameX="-1" frameY="-19" frameWidth="260" frameHeight="442"/>
+	<SubTexture name="Komasan Up0010" x="29" y="2203" width="259" height="423" frameX="-1" frameY="-19" frameWidth="260" frameHeight="442"/>
+	<SubTexture name="Komasan Up0011" x="29" y="2203" width="259" height="423" frameX="-1" frameY="-19" frameWidth="260" frameHeight="442"/>
+	<SubTexture name="Komasan Up0012" x="29" y="2203" width="259" height="423" frameX="-1" frameY="-19" frameWidth="260" frameHeight="442"/>
+	<SubTexture name="Komasan Up0013" x="29" y="2203" width="259" height="423" frameX="-1" frameY="-19" frameWidth="260" frameHeight="442"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0000" x="29" y="2674" width="279" height="401" pivotX="14.15" pivotY="3.1" frameX="-16" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0001" x="337" y="2674" width="280" height="401" frameX="-15" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0002" x="646" y="2674" width="295" height="398" frameX="-13" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0003" x="29" y="3104" width="293" height="398" frameX="-15" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0004" x="351" y="3104" width="280" height="400" frameX="-12" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0005" x="660" y="3104" width="282" height="400" frameX="-10" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0006" x="29" y="3533" width="278" height="403" frameX="0" frameY="0" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0007" x="336" y="3533" width="267" height="403" frameX="-11" frameY="0" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0008" x="29" y="2674" width="279" height="401" frameX="-16" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0009" x="337" y="2674" width="280" height="401" frameX="-15" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0010" x="646" y="2674" width="295" height="398" frameX="-13" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0011" x="29" y="3104" width="293" height="398" frameX="-15" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0012" x="351" y="3104" width="280" height="400" frameX="-12" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0013" x="660" y="3104" width="282" height="400" frameX="-10" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0014" x="29" y="3533" width="278" height="403" frameX="0" frameY="0" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0015" x="336" y="3533" width="267" height="403" frameX="-11" frameY="0" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0016" x="29" y="2674" width="279" height="401" frameX="-16" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0017" x="337" y="2674" width="280" height="401" frameX="-15" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0018" x="646" y="2674" width="295" height="398" frameX="-13" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0019" x="29" y="3104" width="293" height="398" frameX="-15" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0020" x="351" y="3104" width="280" height="400" frameX="-12" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0021" x="660" y="3104" width="282" height="400" frameX="-10" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0022" x="29" y="3533" width="278" height="403" frameX="0" frameY="0" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0023" x="336" y="3533" width="267" height="403" frameX="-11" frameY="0" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0024" x="29" y="2674" width="279" height="401" frameX="-16" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0025" x="337" y="2674" width="280" height="401" frameX="-15" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0026" x="646" y="2674" width="295" height="398" frameX="-13" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0027" x="29" y="3104" width="293" height="398" frameX="-15" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0028" x="351" y="3104" width="280" height="400" frameX="-12" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0029" x="660" y="3104" width="282" height="400" frameX="-10" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0030" x="29" y="3533" width="278" height="403" frameX="0" frameY="0" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0031" x="336" y="3533" width="267" height="403" frameX="-11" frameY="0" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0032" x="29" y="2674" width="279" height="401" frameX="-16" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0033" x="337" y="2674" width="280" height="401" frameX="-15" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0034" x="646" y="2674" width="295" height="398" frameX="-13" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0035" x="29" y="3104" width="293" height="398" frameX="-15" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0036" x="351" y="3104" width="280" height="400" frameX="-12" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0037" x="660" y="3104" width="282" height="400" frameX="-10" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0038" x="29" y="3533" width="278" height="403" frameX="0" frameY="0" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="OH MY SWIRLS LOOP corrected0039" x="336" y="3533" width="267" height="403" frameX="-11" frameY="0" frameWidth="308" frameHeight="404"/>
 </TextureAtlas>
