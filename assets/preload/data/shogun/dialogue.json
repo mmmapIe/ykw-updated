@@ -11,85 +11,71 @@
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
-			"expression": "shocked",
-			"text": "oh no"
+			"expression": "talk",
+			"text": "hi"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "shocked",
-			"text": "BF WHAT DID YOU DO"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "shogunyan",
+			"portrait": "Shogunyan",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "WHO DARES SUMMON I\\nTHE GREAT SHOGUNYAN"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "shocked",
-			"text": "me"
+			"text": "What? You? A tiny midget?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "whisper2",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "BOYFRIEND YOU SUMMONED A LEGENDARY YOKAI"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "Shogunyan",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Because i'm feeling generous, i'll make you a deal."
-		},
-		{
-			"speed": 0.05,
-			"portrait": "Shogunyan",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "If you can beat me in this little game, i'll forget this ever happened and give you my medal"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "shocked",
-			"text": "And if I dont win?"
+			"text": "WHAT"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "shogunyan",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "You'll see."
-		},
-		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "confused",
-			"text": "I don't think we have a choice here.."
+			"text": "You seem respectable enough.\\nOnly a true warrior would be blissful when stared down by a samurai."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
-			"expression": "shocked",
-			"text": "I'll do it."
+			"expression": "talk",
+			"text": "whats blissful"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "Shogunyan",
+			"portrait": "shogunyan",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Very well. Let us start."
+			"text": "Would you like to duke it out in a battle?\\nMy sword has been turned into a mic so I presume we can only sing."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "sure i guess"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whisper2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HOW ARE YOU NOT SCARED FOR YOUR LIFE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lets go shogun thing"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "SHogunyan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Very well."
 		}
 	]
 }

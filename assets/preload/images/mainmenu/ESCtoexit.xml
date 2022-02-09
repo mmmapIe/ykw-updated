@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ESCtoexit.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="backspace to exit instance 10000" x="0" y="0" width="281" height="106" pivotX="0" pivotY="0"/>
+	<SubTexture name="backspace to exit instance 10001" x="0" y="0" width="281" height="106"/>
+	<SubTexture name="backspace to exit instance 10002" x="0" y="0" width="281" height="106"/>
+	<SubTexture name="backspace to exit instance 10003" x="0" y="106" width="281" height="106"/>
+</TextureAtlas>

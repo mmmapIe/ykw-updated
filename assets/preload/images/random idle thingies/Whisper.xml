@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Whisper.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle instance 10000" x="0" y="0" width="463" height="386" pivotX="-1.7" pivotY="1.75" frameX="-4" frameY="-11" frameWidth="467" frameHeight="403"/>
+	<SubTexture name="Idle instance 10001" x="0" y="0" width="463" height="386" frameX="-4" frameY="-11" frameWidth="467" frameHeight="403"/>
+	<SubTexture name="Idle instance 10002" x="463" y="0" width="448" height="396" frameX="-10" frameY="-1" frameWidth="467" frameHeight="403"/>
+	<SubTexture name="Idle instance 10003" x="463" y="0" width="448" height="396" frameX="-10" frameY="-1" frameWidth="467" frameHeight="403"/>
+	<SubTexture name="Idle instance 10004" x="911" y="0" width="434" height="403" frameX="0" frameY="0" frameWidth="467" frameHeight="403"/>
+	<SubTexture name="Idle instance 10005" x="1345" y="0" width="434" height="403" frameX="0" frameY="0" frameWidth="467" frameHeight="403"/>
+	<SubTexture name="Idle instance 10006" x="0" y="403" width="422" height="397" frameX="0" frameY="0" frameWidth="467" frameHeight="403"/>
+	<SubTexture name="Idle instance 10007" x="422" y="403" width="422" height="397" frameX="0" frameY="0" frameWidth="467" frameHeight="403"/>
+	<SubTexture name="Idle instance 10008" x="844" y="403" width="411" height="398" frameX="0" frameY="0" frameWidth="467" frameHeight="403"/>
+	<SubTexture name="Idle instance 10009" x="1255" y="403" width="411" height="398" frameX="0" frameY="0" frameWidth="467" frameHeight="403"/>
+	<SubTexture name="Idle instance 10010" x="1255" y="403" width="411" height="398" frameX="0" frameY="0" frameWidth="467" frameHeight="403"/>
+	<SubTexture name="Idle instance 10011" x="1255" y="403" width="411" height="398" frameX="0" frameY="0" frameWidth="467" frameHeight="403"/>
+	<SubTexture name="Idle instance 10012" x="1255" y="403" width="411" height="398" frameX="0" frameY="0" frameWidth="467" frameHeight="403"/>
+</TextureAtlas>

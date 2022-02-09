@@ -2,73 +2,94 @@
 	"dialogue": [
 		{
 			"speed": 0.05,
-			"portrait": "komasan",
-			"boxState": "angry",
-			"expression": "talk",
-			"text": "Oh my swirls!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "komasan",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Can you help me find my brother Komajiro? He was supposed to be here a hour ago!"
-		},
-		{
-			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
-			"expression": "pissed",
-			"text": "No but I can rap with you!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "komasan",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "But I need to find komajiro! "
+			"text": "hey whisper"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Im sure he will be here, hes probably just running late."
+			"text": "theres another yolk guy over there"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Whisper",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "When are you gonna start learning, It's a yo-kai!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "While you are waiting we can rap!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "What type of music should we use?"
+			"text": "whatever\\nanyway theres a lion dog thing whatever"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "komasan",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "I know a song! It's something I learned from mama before I left for the big city!"
+			"text": "Oh my swirls! You can see me?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
-			"expression": "pissed",
-			"text": "Lets hear it then!"
+			"expression": "talk",
+			"text": "yeah\\nwhy do people always say that"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "komasan",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "talk",
-			"text": "Alright, Get ready!"
+			"text": "Because humans usually can't see us!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well anyway why are you here\\nlooking for a bite to eat or something"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "komasan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No, My brother komajiro was supposed to be here a hour ago!\\nI hope he will be here soon.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh dang\\nyou wanna sing while we wait"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Komasan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sure!\\nI got a song from mama!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "lets go little dude"
 		}
 	]
 }

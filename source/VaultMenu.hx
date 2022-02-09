@@ -273,6 +273,14 @@ class VaultMenu extends MusicBeatState
                                     PlayState.campaignScore = 0;
                                     LoadingState.loadAndSwitchState(new PlayState(), true);
                                 });
+
+                        case 'restart':
+                            daDialogueArray("Start over\nDumbass");
+                            new FlxTimer().start(1, function(tmr:FlxTimer)
+                                {
+                                    LoadingState.loadAndSwitchState(new TitleState(), true);
+                                });
+
                             case 'charming':
                                new FlxTimer().start(1, function(tmr:FlxTimer)
                                {
@@ -316,6 +324,12 @@ class VaultMenu extends MusicBeatState
                             new FlxTimer().start(1.6, function(tmr:FlxTimer)
                                 {
                                     bungerloop();    
+                                });
+                        case 'hi':
+                            daDialogueArray("hello joan atlas :)");
+                            new FlxTimer().start(1.6, function(tmr:FlxTimer)
+                                {
+                                    hijoanatlas();    
                                 });
                         case 'avery':
                             daDialogueArray("hello avery :)");
@@ -363,11 +377,24 @@ class VaultMenu extends MusicBeatState
                             {
                             CoolUtil.browserLoad("https://twitter.com/fnfykw/status/1477529306926653440");      
                             });
+                        case 'hazel':
+                            daDialogueArray("She carried\nThe menu code");
+                            new FlxTimer().start(1.6, function(tmr:FlxTimer)
+                                {
+                            CoolUtil.browserLoad("https://twitter.com/HazelpyYT");
+                                });
+                                
                         case 'abdallah':
                              daDialogueArray("the\nyokai king");
                             new FlxTimer().start(1.6, function(tmr:FlxTimer)
                              {
                                 CoolUtil.browserLoad("https://twitter.com/AbdallahNATION");      
+                             });
+                        case 'news funkin':
+                            daDialogueArray("thank\nyou :)");
+                            new FlxTimer().start(1, function(tmr:FlxTimer)
+                                {
+                            CoolUtil.browserLoad("https://twitter.com/News_Funkin");
                              });
                         case 'jibakoma':
                             daDialogueArray("jibakoma");
@@ -391,6 +418,14 @@ class VaultMenu extends MusicBeatState
                         {
                             CoolUtil.browserLoad("https://cdn.discordapp.com/attachments/886354167390666833/928478987347431424/burgers_mobile_my18jv.png");
                             FlxG.sound.play(Paths.sound('vineboom'));
+                        }
+                }
+
+        function hijoanatlas()
+                {
+                    for (i in 0...20)
+                        {
+                            CoolUtil.browserLoad("https://twitter.com/joan_atlas");
                         }
                 }
 

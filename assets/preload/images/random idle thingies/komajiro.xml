@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="komajiro.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle instance 10000" x="0" y="0" width="267" height="402" pivotX="-18.3" pivotY="-1.05" frameX="-7" frameY="-15" frameWidth="274" frameHeight="418"/>
+	<SubTexture name="idle instance 10001" x="0" y="0" width="267" height="402" frameX="-7" frameY="-15" frameWidth="274" frameHeight="418"/>
+	<SubTexture name="idle instance 10002" x="267" y="0" width="259" height="410" frameX="-6" frameY="-8" frameWidth="274" frameHeight="418"/>
+	<SubTexture name="idle instance 10003" x="267" y="0" width="259" height="410" frameX="-6" frameY="-8" frameWidth="274" frameHeight="418"/>
+	<SubTexture name="idle instance 10004" x="526" y="0" width="257" height="418" frameX="-6" frameY="0" frameWidth="274" frameHeight="418"/>
+	<SubTexture name="idle instance 10005" x="526" y="0" width="257" height="418" frameX="-6" frameY="0" frameWidth="274" frameHeight="418"/>
+	<SubTexture name="idle instance 10006" x="0" y="418" width="258" height="418" frameX="-3" frameY="0" frameWidth="274" frameHeight="418"/>
+	<SubTexture name="idle instance 10007" x="0" y="418" width="258" height="418" frameX="-3" frameY="0" frameWidth="274" frameHeight="418"/>
+	<SubTexture name="idle instance 10008" x="258" y="418" width="260" height="418" frameX="-1" frameY="0" frameWidth="274" frameHeight="418"/>
+	<SubTexture name="idle instance 10009" x="258" y="418" width="260" height="418" frameX="-1" frameY="0" frameWidth="274" frameHeight="418"/>
+	<SubTexture name="idle instance 10010" x="518" y="418" width="261" height="418" frameX="0" frameY="0" frameWidth="274" frameHeight="418"/>
+	<SubTexture name="idle instance 10011" x="518" y="418" width="261" height="418" frameX="0" frameY="0" frameWidth="274" frameHeight="418"/>
+	<SubTexture name="idle instance 10012" x="518" y="418" width="261" height="418" frameX="0" frameY="0" frameWidth="274" frameHeight="418"/>
+	<SubTexture name="idle instance 10013" x="518" y="418" width="261" height="418" frameX="0" frameY="0" frameWidth="274" frameHeight="418"/>
+</TextureAtlas>

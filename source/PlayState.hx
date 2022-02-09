@@ -200,6 +200,8 @@ class PlayState extends MusicBeatState
 	var grpLimoDancers:FlxTypedGroup<BackgroundDancer>;
 	var fastCar:BGSprite;
 
+	var pleasepressn:FlxSprite;
+
 	var upperBoppers:BGSprite;
 	var bottomBoppers:BGSprite;
 	var santa:BGSprite;
@@ -2120,9 +2122,13 @@ class PlayState extends MusicBeatState
 						switch (curSong.toLowerCase())
 						{
 							case 'shogun':
-								PlayState.SONG = Song.loadFromJson("test-song-2", "test-song-2"); // fuck you
-								FlxG.switchState(new PlayState());
-								return;
+								PlayState.storyPlaylist = ['for-naughty-brats'];
+								PlayState.isStoryMode = false;
+								PlayState.storyDifficulty = 2;
+								PlayState.SONG = Song.loadFromJson(StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase() + '-hard', StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase());
+								PlayState.storyWeek = 10;
+								PlayState.campaignScore = 0;
+								LoadingState.loadAndSwitchState(new PlayState(), true);
 						}
 
 					}
@@ -2144,6 +2150,19 @@ class PlayState extends MusicBeatState
 			#if desktop
 			DiscordClient.changePresence("Chart Editor", null, null, true);
 			#end
+
+			switch (curSong.toLowerCase())
+			{
+				case 'shogun':
+					PlayState.storyPlaylist = ['for-naughty-brats'];
+					PlayState.isStoryMode = false;
+					PlayState.storyDifficulty = 2;
+					PlayState.SONG = Song.loadFromJson(StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase() + '-hard', StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase());
+					PlayState.storyWeek = 10;
+					PlayState.campaignScore = 0;
+					LoadingState.loadAndSwitchState(new PlayState(), true);
+					
+			}
 			
 		}
 
@@ -2657,8 +2676,31 @@ class PlayState extends MusicBeatState
 				dad.playAnim('slash', true);
 				boyfriend.playAnim('hurt', true);
 				FlxG.camera.shake(0.01, 0.2);
-				health -= 0.022;
-				FlxG.sound.play(Paths.sound('slice'));
+				health -= 0.17;
+				new FlxTimer().start(0.2, function(tmr:FlxTimer)
+					{
+						FlxG.sound.play(Paths.sound('slice'));
+					});
+
+			case 'Usapyon fuck you': // da duel mechanic lmao
+				pressnfucko();
+				{
+			if (FlxG.keys.justPressed.N)
+				{
+					FlxG.sound.play(Paths.sound('gunfire'));
+					FlxG.camera.shake(0.01, 0.2);
+					boyfriend.playAnim('attack', true);
+					health += 0.17;
+	
+				}
+		//	else
+		//		{
+		//		new FlxTimer().start(0.4, function(tmr:FlxTimer)
+		//		{
+		//		usaphitboof();
+		//		});
+		//		}
+			}
 
 			case 'Trigger BG Ghouls':
 				if(curStage == 'schoolEvil' && !ClientPrefs.lowQuality) {
@@ -2847,6 +2889,7 @@ class PlayState extends MusicBeatState
 			}
 		}
 	}
+
 
 	function tweenCamIn() {
 		if (Paths.formatToSongPath(SONG.song) == 'tutorial' && cameraTwn == null && FlxG.camera.zoom != 1.3) {
@@ -3702,6 +3745,29 @@ class PlayState extends MusicBeatState
 		}
 	}
 
+
+
+	function usaphitboof()
+		{
+			FlxG.sound.play(Paths.sound('gunfire'));
+			FlxG.camera.shake(0.01, 0.2);
+			dad.playAnim('singRIGHT', true);
+			health -= 0.17;
+		}
+
+	function pressnfucko()
+		{
+			pleasepressn = new FlxSprite().loadGraphic(Paths.image('PRESS_SPACE'));
+			pleasepressn.antialiasing = true;
+			pleasepressn.screenCenter();
+			pleasepressn.alpha = 0;
+			add(pleasepressn);
+
+			pleasepressn.alpha = 1;
+			FlxTween.tween(pleasepressn, {alpha: 0}, 1, {ease: FlxEase.expoInOut});
+
+		}
+
 	function killHenchmen():Void
 	{
 		if(!ClientPrefs.lowQuality && ClientPrefs.violence && curStage == 'limo') {
@@ -3741,7 +3807,6 @@ class PlayState extends MusicBeatState
 			limoCorpseTwo.visible = false;
 		}
 	}
-
 	private var preventLuaRemove:Bool = false;
 	override function destroy() {
 		preventLuaRemove = true;

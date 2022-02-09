@@ -1,109 +1,137 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
-			"portrait": "komasan",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "That was great and all!"
+			"text": "That was great and all!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "komasan"
+		},
+		{
+			"expression": "talk",
+			"text": "but?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "But komajiro still hasn't arrived!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "komasan"
+		},
+		{
+			"expression": "talk",
+			"text": "thats bad, ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "but?"
+			"text": "but i promise hes running late bro"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "phone",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "INCOMING CALL FROM : KOMAJIRO"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "komasan",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "But komajiro still hasn't arrived!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "huh, well im sure he will be her-"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "blank",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "*INCOMING CALL FROM : KJ*"
+			"text": "Hello?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "kj",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Hey bro, Sorry im running late"
+			"text": "Hey bro!"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "kj",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "I got a gig last minute, It's at the train station  "
+			"text": "I got a gig last minute, It's at the train station  ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kj"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "komasan",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Oh ok! I don't know if I can make it.. I have to go to work! I got a job at the office tower."
+			"text": "Alright! I don't think I can come though, Momma shipped over a few things back from the country, including a recipe book!"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "excited",
-			"text": "can i go"
+			"text": "Nice! Save me some of mama's famous\\nchicken!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kj"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "komasan",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "Um, Ok, Well cya later bro!"
+			"text": "Um, Ok, Well cya later bro!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "komasan"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "kj",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "Alright, Cya later bro!"
+			"text": "Alright, Cya later bro!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kj"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "blank",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "*HANG UP*"
+			"text": "*HANG UP*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "phone"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "komasan",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "I can do one more song before I have to go."
+			"text": "I can do one more song before I have to go home.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "komasan"
+		},
+		{
+			"expression": "talk",
+			"text": "alright",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "This should be interesting.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "whisper"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "alright"
+			"text": "by the way can i go to the trainstation instead of you since you cant make it"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "whisper",
+			"portrait": "komasan",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "This should be interesting."
+			"text": "Sure!"
 		}
 	]
 }

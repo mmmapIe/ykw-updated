@@ -2,13 +2,14 @@
 	"storyName": "Bumpkin Trouble",
 	"hideFreeplay": false,
 	"weekBackground": "nomburger",
-	"weekBefore": "week1",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "week1",
 	"startUnlocked": true,
+	"hideStoryMode": false,
 	"weekCharacters": [
 		"",
 		"",
@@ -34,7 +35,7 @@
 			]
 		],
 		[
-			"City-licker",
+			"CIty-licker",
 			"kj",
 			[
 				238,
@@ -43,6 +44,5 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
 	"weekName": "The Bumpkin"
 }

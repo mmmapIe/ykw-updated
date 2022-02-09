@@ -4,190 +4,190 @@
 			"expression": "talk",
 			"text": "Whats up my coporeal friend! I am whisper, At your service!",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "Whisper"
+			"portrait": "Whisper",
+			"speed": 0.05
 		},
 		{
 			"expression": "shocked",
 			"text": "",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "I am a Yo-kai! That thing you humans call a ghost, spirit, or a extraterrestrial being!",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "whisper"
+			"portrait": "whisper",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "Yo-kai? that sounds like some edgy rock band",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "Yeah yeah whatever, So you are probably wondering why I was in the spooky capsule machine?",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "Whisper"
+			"portrait": "Whisper",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "About 190 years ago some self righteous monster declared me! a menous to society and locked me in the machine!",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "whisper"
+			"portrait": "whisper",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
-			"text": "They had gacha machines back then?",
+			"text": "hold on how old are you",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "Nevermind all that. What is important is that you have managed to...",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "whisper"
+			"portrait": "whisper",
+			"speed": 0.05
 		},
 		{
 			"expression": "FREEEEE",
 			"text": "SET ME FRRREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "whisper2"
+			"portrait": "whisper2",
+			"speed": 0.05
 		},
 		{
-			"expression": "shocked",
-			"text": "bf?",
+			"expression": "confused",
+			"text": "uhhhh",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gf"
+			"portrait": "gf",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "And now you and I have entered a sacred bond! More then a friendship, more than a marriage, I AM FOREVER IN DEBT TO YOU!",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "whisper"
+			"portrait": "whisper",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "(bf has walked away)",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bfwalky"
+			"portrait": "bfwalky",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "WWHAAAAAAAAAAAAAAAAAAAAAAAAAA\\nAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\nAAAAAAAAAAAAAAAAAAAAAAAAA",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "whisper2"
+			"portrait": "whisper2",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
-			"text": "Yeah uh no offense but i really dont care about whatever this is i just wanna eat my lunch with gf ",
+			"text": "yeah uh i dont care\\ni just wanna eat lunch\\nthats the entire reason im here",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
-			"text": "Alright then, walk away.",
+			"text": "You do not know what you are passing up here!",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "whisper"
+			"portrait": "whisper",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
-			"text": "fine, im outta here gf, lets go",
+			"text": "i can rap\\ni have a good career\\ni think im good enough",
 			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "bf lets go this is stupid",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
 			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "whisper",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Rrr.. Listen just hear me out."
 		},
 		{
 			"expression": "talk",
-			"text": "later weird white thing",
+			"text": "(bf walks away further)",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gf"
-		},
-		{
-			"expression": "talk",
-			"text": "(they have walked away alot by now)",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bfwalky"
+			"portrait": "bfwalky",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "WWAAAAAAAAAAIIIIIIT A MINUTTTTEEEEE",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "whisper2"
+			"portrait": "whisper2",
+			"speed": 0.05
 		},
 		{
+			"speed": 0.05,
+			"portrait": "whisper2",
+			"boxState": "normal",
 			"expression": "talk",
-			"text": "listen bro i only staying if we rapping",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"text": "YOU KIDS TODAY HAVE NO RESPECT"
 		},
 		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "alright alright\\n ill cut you a deal"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
 			"expression": "talk",
-			"text": "You mean wrapping gifts? I can do that!",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "whisper"
+			"text": "if you can beat me in a song i will listen, if i beat you you have to buy me subway"
 		},
 		{
+			"speed": 0.05,
+			"portrait": "Whisper",
+			"boxState": "normal",
 			"expression": "talk",
-			"text": " no i mean singing",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"text": "Nice, but additionally. You have to wear this watch!"
 		},
 		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
 			"expression": "talk",
-			"text": "Oh, I can do that too!",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "whisper"
+			"text": "yeye whatever"
 		},
 		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
 			"expression": "talk",
-			"text": "But if I do this, you have to let me acompany you with the journey through the realm of yokai you will experience on a daily basis!",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "whisper"
+			"text": "huh"
 		},
 		{
-			"expression": "talk",
-			"text": "yeah whatever",
-			"boxState": "normal",
 			"speed": 0.05,
-			"portrait": "bf"
-		},
-		{
-			"expression": "talk",
-			"text": "please just shut up and start",
+			"portrait": "bf",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
-		},
-		{
-			"expression": "confused",
-			"text": "i have a bad feeling about this..",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "gf"
+			"expression": "pissed",
+			"text": "lets go you spoon full of fluff!"
 		}
 	]
 }

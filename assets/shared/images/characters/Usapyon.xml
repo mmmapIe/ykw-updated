@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Usapyon.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle  instance 10000" x="0" y="0" width="401" height="428" pivotX="6.3" pivotY="-7" frameX="0" frameY="-10" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="Idle  instance 10001" x="0" y="0" width="401" height="428" frameX="0" frameY="-10" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="Idle  instance 10002" x="401" y="0" width="391" height="431" frameX="-2" frameY="-7" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="Idle  instance 10003" x="401" y="0" width="391" height="431" frameX="-2" frameY="-7" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="Idle  instance 10004" x="792" y="0" width="390" height="435" frameX="-3" frameY="-3" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="Idle  instance 10005" x="792" y="0" width="390" height="435" frameX="-3" frameY="-3" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="Idle  instance 10006" x="1182" y="0" width="390" height="436" frameX="-3" frameY="-2" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="Idle  instance 10007" x="1182" y="0" width="390" height="436" frameX="-3" frameY="-2" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="Idle  instance 10008" x="1572" y="0" width="385" height="438" frameX="-8" frameY="0" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="Idle  instance 10009" x="1572" y="0" width="385" height="438" frameX="-8" frameY="0" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="Idle  instance 10010" x="1957" y="0" width="382" height="438" frameX="-11" frameY="0" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="Idle  instance 10011" x="1957" y="0" width="382" height="438" frameX="-11" frameY="0" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="Idle  instance 10012" x="2339" y="0" width="385" height="438" frameX="-8" frameY="0" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="Idle  instance 10013" x="2339" y="0" width="385" height="438" frameX="-8" frameY="0" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="Left instance 10000" x="2724" y="0" width="335" height="422" pivotX="37.3" pivotY="-27.4" frameX="-6" frameY="-2" frameWidth="342" frameHeight="424"/>
+	<SubTexture name="Left instance 10001" x="2724" y="0" width="335" height="422" frameX="-6" frameY="-2" frameWidth="342" frameHeight="424"/>
+	<SubTexture name="Left instance 10002" x="3059" y="0" width="336" height="422" frameX="0" frameY="-2" frameWidth="342" frameHeight="424"/>
+	<SubTexture name="Left instance 10003" x="3059" y="0" width="336" height="422" frameX="0" frameY="-2" frameWidth="342" frameHeight="424"/>
+	<SubTexture name="Left instance 10004" x="3395" y="0" width="328" height="423" frameX="-6" frameY="-1" frameWidth="342" frameHeight="424"/>
+	<SubTexture name="Left instance 10005" x="3723" y="0" width="328" height="423" frameX="-6" frameY="-1" frameWidth="342" frameHeight="424"/>
+	<SubTexture name="Left instance 10006" x="0" y="438" width="328" height="424" frameX="-14" frameY="0" frameWidth="342" frameHeight="424"/>
+	<SubTexture name="Left instance 10007" x="328" y="438" width="328" height="424" frameX="-14" frameY="0" frameWidth="342" frameHeight="424"/>
+	<SubTexture name="Left instance 10008" x="656" y="438" width="330" height="424" frameX="-12" frameY="0" frameWidth="342" frameHeight="424"/>
+	<SubTexture name="Left instance 10009" x="656" y="438" width="330" height="424" frameX="-12" frameY="0" frameWidth="342" frameHeight="424"/>
+	<SubTexture name="Left instance 10010" x="986" y="438" width="331" height="424" frameX="-11" frameY="0" frameWidth="342" frameHeight="424"/>
+	<SubTexture name="Right instance 10000" x="1317" y="438" width="320" height="436" pivotX="-43.8" pivotY="-7.05" frameX="0" frameY="-4" frameWidth="328" frameHeight="440"/>
+	<SubTexture name="Right instance 10001" x="1317" y="438" width="320" height="436" frameX="0" frameY="-4" frameWidth="328" frameHeight="440"/>
+	<SubTexture name="Right instance 10002" x="1637" y="438" width="327" height="426" frameX="-1" frameY="-14" frameWidth="328" frameHeight="440"/>
+	<SubTexture name="Right instance 10003" x="1637" y="438" width="327" height="426" frameX="-1" frameY="-14" frameWidth="328" frameHeight="440"/>
+	<SubTexture name="Right instance 10004" x="1964" y="438" width="321" height="440" frameX="-4" frameY="0" frameWidth="328" frameHeight="440"/>
+	<SubTexture name="Right instance 10005" x="1964" y="438" width="321" height="440" frameX="-4" frameY="0" frameWidth="328" frameHeight="440"/>
+	<SubTexture name="Right instance 10006" x="2285" y="438" width="320" height="436" frameX="0" frameY="-4" frameWidth="328" frameHeight="440"/>
+	<SubTexture name="Right instance 10007" x="2285" y="438" width="320" height="436" frameX="0" frameY="-4" frameWidth="328" frameHeight="440"/>
+	<SubTexture name="Right instance 10008" x="2605" y="438" width="320" height="436" frameX="0" frameY="-4" frameWidth="328" frameHeight="440"/>
+	<SubTexture name="Right instance 10009" x="2605" y="438" width="320" height="436" frameX="0" frameY="-4" frameWidth="328" frameHeight="440"/>
+	<SubTexture name="Up instance 10000" x="2925" y="438" width="310" height="431" pivotX="14.4" pivotY="7.45" frameX="-1" frameY="-15" frameWidth="323" frameHeight="446"/>
+	<SubTexture name="Up instance 10001" x="2925" y="438" width="310" height="431" frameX="-1" frameY="-15" frameWidth="323" frameHeight="446"/>
+	<SubTexture name="Up instance 10002" x="3235" y="438" width="302" height="434" frameX="0" frameY="-12" frameWidth="323" frameHeight="446"/>
+	<SubTexture name="Up instance 10003" x="3235" y="438" width="302" height="434" frameX="0" frameY="-12" frameWidth="323" frameHeight="446"/>
+	<SubTexture name="Up instance 10004" x="3537" y="438" width="287" height="446" frameX="-14" frameY="0" frameWidth="323" frameHeight="446"/>
+	<SubTexture name="Up instance 10005" x="3537" y="438" width="287" height="446" frameX="-14" frameY="0" frameWidth="323" frameHeight="446"/>
+	<SubTexture name="Up instance 10006" x="0" y="884" width="321" height="418" frameX="-2" frameY="-28" frameWidth="323" frameHeight="446"/>
+	<SubTexture name="Up instance 10007" x="0" y="884" width="321" height="418" frameX="-2" frameY="-28" frameWidth="323" frameHeight="446"/>
+	<SubTexture name="Up instance 10008" x="321" y="884" width="309" height="430" frameX="-4" frameY="-16" frameWidth="323" frameHeight="446"/>
+	<SubTexture name="Up instance 10009" x="321" y="884" width="309" height="430" frameX="-4" frameY="-16" frameWidth="323" frameHeight="446"/>
+	<SubTexture name="down instance 10000" x="630" y="884" width="353" height="411" pivotX="-12.15" pivotY="-34.35" frameX="-3" frameY="0" frameWidth="425" frameHeight="412"/>
+	<SubTexture name="down instance 10001" x="630" y="884" width="353" height="411" frameX="-3" frameY="0" frameWidth="425" frameHeight="412"/>
+	<SubTexture name="down instance 10002" x="983" y="884" width="411" height="405" frameX="-1" frameY="-7" frameWidth="425" frameHeight="412"/>
+	<SubTexture name="down instance 10003" x="1394" y="884" width="422" height="405" frameX="-1" frameY="-7" frameWidth="425" frameHeight="412"/>
+	<SubTexture name="down instance 10004" x="1816" y="884" width="425" height="400" frameX="0" frameY="-12" frameWidth="425" frameHeight="412"/>
+	<SubTexture name="down instance 10005" x="2241" y="884" width="420" height="400" frameX="0" frameY="-12" frameWidth="425" frameHeight="412"/>
+	<SubTexture name="down instance 10006" x="2661" y="884" width="413" height="410" frameX="-4" frameY="-1" frameWidth="425" frameHeight="412"/>
+	<SubTexture name="down instance 10007" x="2661" y="884" width="413" height="410" frameX="-4" frameY="-1" frameWidth="425" frameHeight="412"/>
+	<SubTexture name="down instance 10008" x="3074" y="884" width="413" height="410" frameX="-4" frameY="-1" frameWidth="425" frameHeight="412"/>
+	<SubTexture name="down instance 10009" x="3074" y="884" width="413" height="410" frameX="-4" frameY="-1" frameWidth="425" frameHeight="412"/>
+	<SubTexture name="down instance 10010" x="3074" y="884" width="413" height="410" frameX="-4" frameY="-1" frameWidth="425" frameHeight="412"/>
+</TextureAtlas>

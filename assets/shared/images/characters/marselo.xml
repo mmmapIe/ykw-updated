@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="marselo.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ball man Instanz 10000" x="29" y="29" width="402" height="366" pivotX="14" pivotY="0" frameX="0" frameY="-26" frameWidth="402" frameHeight="392"/>
+	<SubTexture name="Ball man Instanz 10001" x="29" y="29" width="402" height="366" frameX="0" frameY="-26" frameWidth="402" frameHeight="392"/>
+	<SubTexture name="Ball man Instanz 10002" x="460" y="29" width="389" height="379" frameX="-6" frameY="-13" frameWidth="402" frameHeight="392"/>
+	<SubTexture name="Ball man Instanz 10003" x="460" y="29" width="389" height="379" frameX="-6" frameY="-13" frameWidth="402" frameHeight="392"/>
+	<SubTexture name="Ball man Instanz 10004" x="29" y="437" width="373" height="391" frameX="-14" frameY="0" frameWidth="402" frameHeight="392"/>
+	<SubTexture name="Ball man Instanz 10005" x="29" y="437" width="373" height="391" frameX="-14" frameY="0" frameWidth="402" frameHeight="392"/>
+	<SubTexture name="Ball man Instanz 10006" x="29" y="437" width="373" height="391" frameX="-14" frameY="0" frameWidth="402" frameHeight="392"/>
+	<SubTexture name="Ball man Instanz 10007" x="29" y="437" width="373" height="391" frameX="-14" frameY="0" frameWidth="402" frameHeight="392"/>
+	<SubTexture name="Ball man Instanz 10008" x="29" y="437" width="373" height="391" frameX="-14" frameY="0" frameWidth="402" frameHeight="392"/>
+	<SubTexture name="Ball man Instanz 10009" x="29" y="437" width="373" height="391" frameX="-14" frameY="0" frameWidth="402" frameHeight="392"/>
+	<SubTexture name="Ball man Instanz 10010" x="29" y="437" width="373" height="391" frameX="-14" frameY="0" frameWidth="402" frameHeight="392"/>
+	<SubTexture name="Ball man Instanz 10011" x="29" y="437" width="373" height="391" frameX="-14" frameY="0" frameWidth="402" frameHeight="392"/>
+	<SubTexture name="Ball man Instanz 10012" x="29" y="437" width="373" height="391" frameX="-14" frameY="0" frameWidth="402" frameHeight="392"/>
+	<SubTexture name="Ball man Instanz 10013" x="29" y="437" width="373" height="391" frameX="-14" frameY="0" frameWidth="402" frameHeight="392"/>
+</TextureAtlas>

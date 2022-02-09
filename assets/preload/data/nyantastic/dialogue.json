@@ -1,81 +1,88 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
-			"portrait": "jibanyan",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "What the nyan!? So you're telling me you can see me?\r"
+			"text": "What the nyan!? So you're telling me you can see me?\r",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jibanyan"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "apparently yeah"
+			"text": "apparently yeah",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "Awwwwww he's so cute! Can we keep him?"
+			"text": "Awwwwww he's so cute! Can we keep him?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "jibanyan",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "Hell Nyo lady!"
+			"text": "Hell Nyo lady!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jibanyan"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "..."
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
 			"expression": "confused",
-			"text": "..."
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "coolswag",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "What the nyan is a coolswag?!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jibanyan"
+		},
+		{
+			"expression": "talk",
+			"text": "Anyway uh... Wanna go for another one nyan?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jibanyan"
+		},
+		{
+			"expression": "talk",
+			"text": "sure, i got nothin better to do",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright Nyan! This next one is gonna be\\nNyantastic!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jibanyan"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "coolswag"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "coolswag"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "jibanyan",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "So uh... Wanna go for another one nyan?"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "pissed",
-			"text": "sure lol"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "jibanyan",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Alright Nyan! This next one is gonna be\\nNyantastic!"
+			"text": "stop with the puns"
 		}
 	]
 }
