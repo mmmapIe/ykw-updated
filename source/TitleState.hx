@@ -160,10 +160,11 @@ class TitleState extends MusicBeatState
 		Conductor.changeBPM(102);
 		persistentUpdate = true;
 
-		var bg:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
-		// bg.antialiasing = ClientPrefs.globalAntialiasing;
-		// bg.setGraphicSize(Std.int(bg.width * 0.6));
-		// bg.updateHitbox();
+		var bg:FlxSprite = new FlxSprite(-80).loadGraphic(Paths.image('TitleBG'));
+		bg.setGraphicSize(Std.int(bg.width * 1.175));
+		bg.updateHitbox();
+		bg.screenCenter();
+		bg.antialiasing = ClientPrefs.globalAntialiasing;
 		add(bg);
 
 		logoBl = new FlxSprite(-20, 0);
@@ -172,7 +173,7 @@ class TitleState extends MusicBeatState
 		logoBl.animation.addByPrefix('bump', 'logo bumpin', 24);
 		logoBl.animation.play('bump');
 		logoBl.updateHitbox();
-		// logoBl.screenCenter();
+		logoBl.screenCenter();
 		// logoBl.color = FlxColor.BLACK;
 
 		add(logoBl);
