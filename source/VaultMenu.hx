@@ -169,7 +169,6 @@ class VaultMenu extends MusicBeatState
             input.maxLength = 30;
             input.lines = 3;
 
-
         }
 
         
