@@ -1,0 +1,48 @@
+{
+	"storyName": "help me i cant think of a name for this",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week3.5",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Rocket-Punch",
+			"robonyan",
+			[
+				129,
+				223,
+				249
+			]
+		],
+		[
+			"Upgrade",
+			"robonyanf",
+			[
+				129,
+				223,
+				249
+			]
+		],
+		[
+			"I'll-Be-Back",
+			"robonyanf",
+			[
+				129,
+				223,
+				249
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "help me"
+}

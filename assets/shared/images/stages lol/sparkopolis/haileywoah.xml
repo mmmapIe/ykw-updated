@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="haileywoah.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hailey not stick instance 10000" x="0" y="0" width="222" height="427" pivotX="5.9" pivotY="-8.85" frameX="0" frameY="-11" frameWidth="222" frameHeight="438"/>
+	<SubTexture name="hailey not stick instance 10001" x="0" y="0" width="222" height="427" frameX="0" frameY="-11" frameWidth="222" frameHeight="438"/>
+	<SubTexture name="hailey not stick instance 10002" x="222" y="0" width="217" height="433" frameX="-5" frameY="-5" frameWidth="222" frameHeight="438"/>
+	<SubTexture name="hailey not stick instance 10003" x="222" y="0" width="217" height="433" frameX="-5" frameY="-5" frameWidth="222" frameHeight="438"/>
+	<SubTexture name="hailey not stick instance 10004" x="439" y="0" width="215" height="437" frameX="-7" frameY="-1" frameWidth="222" frameHeight="438"/>
+	<SubTexture name="hailey not stick instance 10005" x="439" y="0" width="215" height="437" frameX="-7" frameY="-1" frameWidth="222" frameHeight="438"/>
+	<SubTexture name="hailey not stick instance 10006" x="654" y="0" width="214" height="438" frameX="-8" frameY="0" frameWidth="222" frameHeight="438"/>
+	<SubTexture name="hailey not stick instance 10007" x="654" y="0" width="214" height="438" frameX="-8" frameY="0" frameWidth="222" frameHeight="438"/>
+	<SubTexture name="hailey not stick instance 10008" x="0" y="438" width="213" height="438" frameX="-9" frameY="0" frameWidth="222" frameHeight="438"/>
+	<SubTexture name="hailey not stick instance 10009" x="0" y="438" width="213" height="438" frameX="-9" frameY="0" frameWidth="222" frameHeight="438"/>
+	<SubTexture name="hailey not stick instance 10010" x="0" y="438" width="213" height="438" frameX="-9" frameY="0" frameWidth="222" frameHeight="438"/>
+	<SubTexture name="hailey not stick instance 10011" x="0" y="438" width="213" height="438" frameX="-9" frameY="0" frameWidth="222" frameHeight="438"/>
+	<SubTexture name="hailey not stick instance 10012" x="0" y="438" width="213" height="438" frameX="-9" frameY="0" frameWidth="222" frameHeight="438"/>
+	<SubTexture name="hailey not stick instance 10013" x="0" y="438" width="213" height="438" frameX="-9" frameY="0" frameWidth="222" frameHeight="438"/>
+</TextureAtlas>

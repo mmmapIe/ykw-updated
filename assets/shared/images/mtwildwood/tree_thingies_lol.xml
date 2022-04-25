@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tree thingies lol.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tree thingies lol Instanz 10000" x="29" y="29" width="1028" height="498" pivotX="0.75" pivotY="2.2" frameX="-1" frameY="-2" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10001" x="29" y="29" width="1028" height="498" frameX="-1" frameY="-2" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10002" x="1086" y="29" width="1035" height="496" frameX="-2" frameY="-2" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10003" x="1086" y="29" width="1035" height="496" frameX="-2" frameY="-2" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10004" x="2150" y="29" width="1040" height="495" frameX="-3" frameY="-1" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10005" x="2150" y="29" width="1040" height="495" frameX="-3" frameY="-1" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10006" x="29" y="556" width="1046" height="491" frameX="-4" frameY="-1" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10007" x="29" y="556" width="1046" height="491" frameX="-4" frameY="-1" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10008" x="1104" y="556" width="1052" height="488" frameX="-5" frameY="-1" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10009" x="1104" y="556" width="1052" height="488" frameX="-5" frameY="-1" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10010" x="2185" y="556" width="1057" height="484" frameX="-6" frameY="-1" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10011" x="2185" y="556" width="1057" height="484" frameX="-6" frameY="-1" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10012" x="29" y="1076" width="1063" height="482" frameX="-7" frameY="0" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10013" x="29" y="1076" width="1063" height="482" frameX="-7" frameY="0" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10014" x="1121" y="1076" width="1066" height="478" frameX="-8" frameY="0" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10015" x="1121" y="1076" width="1066" height="478" frameX="-8" frameY="0" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10016" x="2216" y="1076" width="1057" height="484" frameX="-6" frameY="0" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10017" x="2216" y="1076" width="1057" height="484" frameX="-6" frameY="0" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10018" x="29" y="1589" width="1051" height="487" frameX="-5" frameY="-1" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10019" x="29" y="1589" width="1051" height="487" frameX="-5" frameY="-1" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10020" x="1109" y="1589" width="1044" height="490" frameX="-4" frameY="-1" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10021" x="1109" y="1589" width="1044" height="490" frameX="-4" frameY="-1" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10022" x="2182" y="1589" width="1037" height="493" frameX="-3" frameY="-1" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10023" x="2182" y="1589" width="1037" height="493" frameX="-3" frameY="-1" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10024" x="29" y="2111" width="1028" height="495" frameX="-3" frameY="-2" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10025" x="29" y="2111" width="1028" height="495" frameX="-3" frameY="-2" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10026" x="1086" y="2111" width="1020" height="498" frameX="-2" frameY="-2" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10027" x="1086" y="2111" width="1020" height="498" frameX="-2" frameY="-2" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10028" x="2135" y="2111" width="1014" height="502" frameX="0" frameY="-2" frameWidth="1074" frameHeight="504"/>
+	<SubTexture name="tree thingies lol Instanz 10029" x="2135" y="2111" width="1014" height="502" frameX="0" frameY="-2" frameWidth="1074" frameHeight="504"/>
+</TextureAtlas>

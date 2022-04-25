@@ -13,51 +13,51 @@
 		},
 		{
 			"offsets": [
-				5,
-				259
+				195,
+				239
 			],
-			"loop": false,
-			"anim": "singLEFT",
+			"indices": [],
 			"fps": 24,
-			"name": "Left",
-			"indices": []
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Whisper Left"
 		},
 		{
 			"offsets": [
-				-39,
+				-9,
+				277
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Whisper Up"
+		},
+		{
+			"offsets": [
+				-31,
+				200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Whisper Down"
+		},
+		{
+			"offsets": [
+				41,
 				229
 			],
-			"loop": false,
+			"indices": [],
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Right",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-39,
-				327
-			],
 			"loop": false,
-			"anim": "singUP",
-			"fps": 24,
-			"name": "Up",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-21,
-				220
-			],
-			"loop": false,
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Down",
-			"indices": []
+			"name": "Whisper right"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Whisper",
+	"image": "characters/Whisper_NEW",
 	"position": [
 		0,
 		300
@@ -65,9 +65,9 @@
 	"healthicon": "whisper",
 	"flip_x": false,
 	"healthbar_colors": [
-		215,
-		255,
-		255
+		195,
+		195,
+		215
 	],
 	"camera_position": [
 		0,

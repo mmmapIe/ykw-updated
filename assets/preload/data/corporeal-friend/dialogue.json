@@ -37,7 +37,7 @@
 		},
 		{
 			"expression": "talk",
-			"text": "About 190 years ago some self righteous monster declared me! a menous to society and locked me in the machine!",
+			"text": "About 190 years ago some self righteous monster declared me! a menace to society and locked me in the machine!",
 			"boxState": "normal",
 			"portrait": "whisper",
 			"speed": 0.05
@@ -57,10 +57,10 @@
 			"speed": 0.05
 		},
 		{
-			"expression": "FREEEEE",
+			"expression": "byebye",
 			"text": "SET ME FRRREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
 			"boxState": "normal",
-			"portrait": "whisper2",
+			"portrait": "whisper",
 			"speed": 0.05
 		},
 		{
@@ -85,10 +85,10 @@
 			"speed": 0.05
 		},
 		{
-			"expression": "talk",
-			"text": "WWHAAAAAAAAAAAAAAAAAAAAAAAAAA\\nAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\nAAAAAAAAAAAAAAAAAAAAAAAAA",
+			"expression": "FLABBERGASTED",
+			"text": "",
 			"boxState": "normal",
-			"portrait": "whisper2",
+			"portrait": "whisper",
 			"speed": 0.05
 		},
 		{
@@ -120,11 +120,11 @@
 			"speed": 0.05
 		},
 		{
-			"speed": 0.05,
-			"portrait": "whisper",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "Rrr.. Listen just hear me out."
+			"text": "Rrr.. Listen just hear me out.",
+			"boxState": "normal",
+			"portrait": "whisper",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
@@ -134,60 +134,60 @@
 			"speed": 0.05
 		},
 		{
-			"expression": "talk",
-			"text": "WWAAAAAAAAAAIIIIIIT A MINUTTTTEEEEE",
+			"expression": "FLABBERGASTED",
+			"text": "",
 			"boxState": "normal",
-			"portrait": "whisper2",
+			"portrait": "whisper",
 			"speed": 0.05
 		},
 		{
-			"speed": 0.05,
-			"portrait": "whisper2",
+			"expression": "FLABBERGASTED",
+			"text": "Please.",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "YOU KIDS TODAY HAVE NO RESPECT"
+			"portrait": "whisper",
+			"speed": 0.05
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "pissed",
-			"text": "alright alright\\n ill cut you a deal"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
+			"text": "alright alright\\n ill cut you a deal",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "if you can beat me in a song i will listen, if i beat you you have to buy me subway"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
-			"speed": 0.05,
+			"expression": "talk",
+			"text": "if you can beat me in a song i will listen, if i beat you you have to buy me subway",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talkwatch",
+			"text": "Nice, but additionally. You have to wear this watch!",
+			"boxState": "normal",
 			"portrait": "Whisper",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Nice, but additionally. You have to wear this watch!"
+			"speed": 0.05
 		},
 		{
-			"speed": 0.05,
+			"expression": "talk",
+			"text": "yeye whatever",
+			"boxState": "normal",
 			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "yeye whatever"
+			"speed": 0.05
 		},
 		{
-			"speed": 0.05,
+			"expression": "confused",
+			"text": "???",
+			"boxState": "normal",
 			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "huh"
+			"speed": 0.05
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "pissed",
-			"text": "lets go you spoon full of fluff!"
+			"text": "lets go you spoon full of fluff!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
 		}
 	]
 }

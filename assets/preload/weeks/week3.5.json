@@ -1,0 +1,48 @@
+{
+	"storyName": "Bedroom Brawl",
+	"hideFreeplay": false,
+	"weekBackground": "bedroom",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Warm-Up",
+			"whisper",
+			[
+				215,
+				255,
+				255
+			]
+		],
+		[
+			"Legendary",
+			"shogunyanhappy",
+			[
+				129,
+				184,
+				205
+			]
+		],
+		[
+			"Shogun",
+			"shogunyan",
+			[
+				88,
+				78,
+				149
+			]
+		]
+	],
+	"weekName": "Legendary"
+}

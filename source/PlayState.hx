@@ -117,7 +117,12 @@ class PlayState extends MusicBeatState
 	public static var storyPlaylist:Array<String> = [];
 	public static var storyDifficulty:Int = 1;
 
+	public var elapsedtime:Float = 0;
+
 	public var vocals:FlxSound;
+
+	var funnyFloatyBoys:Array<String> = ['whisper'];
+	var canFloat:Bool = true;
 
 	public var dad:Character;
 	public var gf:Character;
@@ -200,7 +205,7 @@ class PlayState extends MusicBeatState
 	var grpLimoDancers:FlxTypedGroup<BackgroundDancer>;
 	var fastCar:BGSprite;
 
-	var pleasepressn:FlxSprite;
+
 
 	var upperBoppers:BGSprite;
 	var bottomBoppers:BGSprite;
@@ -211,6 +216,16 @@ class PlayState extends MusicBeatState
 	var bgGirls:BackgroundGirls;
 	var wiggleShit:WiggleEffect = new WiggleEffect();
 	var bgGhouls:BGSprite;
+
+	var sky:BGSprite;
+	var clouds:BGSprite;
+	var ground:BGSprite;
+	var tree:BGSprite;
+	var treeswinging:BGSprite;
+	var bush1:BGSprite;
+	var bush2:BGSprite;
+
+	var bed:BGSprite;
 
 	public var songScore:Int = 0;
 	public var songHits:Int = 0;
@@ -250,6 +265,7 @@ class PlayState extends MusicBeatState
 	// Lua shit
 	private var luaDebugGroup:FlxTypedGroup<DebugLuaText>;
 	public var introSoundsSuffix:String = '';
+
 
 	override public function create()
 	{
@@ -384,23 +400,43 @@ class PlayState extends MusicBeatState
 					add(stageCurtains);
 				}
 
-			    case 'train station': //Komajiro
-				var bg:BGSprite = new BGSprite('train station/the train station thing itself', -700, -170, 0.9, 0.9);
+				case 'fishplace-truck': //Week 1
+				var bg:BGSprite = new BGSprite('stages lol/JibanyanVSTruck/sky bg', -600, -200, 0.9, 0.9);
 				add(bg);
 
-				crowd = new BGSprite('train station/Crowd_kj', -380, -50, 1, 1, ['Crowd  Instanz']);
+				var bg:BGSprite = new BGSprite('stages lol/JibanyanVSTruck/bg', -600, -200, 0.9, 0.9);
+				add(bg);
+
+
+			    case 'train station': //Komajiro
+				var bg:BGSprite = new BGSprite('stages lol/train station/the train station thing itself', -700, -170, 0.9, 0.9);
+				add(bg);
+
+				crowd = new BGSprite('stages lol/train station/Crowd_kj', -380, -50, 1, 1, ['Crowd  Instanz']);
 				add(crowd);
 
 				case 'snorkle': //fuck you j walker
-				var bg:BGSprite = new BGSprite('vs secret yokai/bg', -860, -900, 0.9, 0.9);
+				var bg:BGSprite = new BGSprite('stages lol/vs secret yokai/bg', -860, -900, 0.9, 0.9);
 				add(bg);
 				
-
-				case 'nom burger': //komasan
-				var bg:BGSprite = new BGSprite('nom burger/city', -400, -1000, 0.9, 0.9);
+				case 'robonyan': //robo
+				var bg:BGSprite = new BGSprite('stages lol/robonyan/sky', -600, -500, 0.9, 0.9);
+				bg.setGraphicSize(Std.int(bg.width *1.6));
 				add(bg);
 
-				var stageFront:BGSprite = new BGSprite('nom burger/the place itself', -2080, -340, 0.9, 0.9);
+				var bg:BGSprite = new BGSprite('stages lol/robonyan/house', -600, -500, 0.9, 0.9);
+				bg.setGraphicSize(Std.int(bg.width *1.6));
+				add(bg);
+
+				var bg:BGSprite = new BGSprite('stages lol/robonyan/road', -650, 600, 0.9, 0.9);
+				bg.setGraphicSize(Std.int(bg.width *1.6));
+				add(bg);
+
+				case 'nom burger': //komasan
+				var bg:BGSprite = new BGSprite('stages lol/nom burger/city', -400, -1000, 0.9, 0.9);
+				add(bg);
+
+				var stageFront:BGSprite = new BGSprite('stages lol/nom burger/the place itself', -2080, -340, 0.9, 0.9);
 				stageFront.setGraphicSize(Std.int(stageFront.width * 1.1));
 				stageFront.updateHitbox();
 				add(stageFront);
@@ -563,9 +599,22 @@ class PlayState extends MusicBeatState
 
 				}
 
+				
 			case 'mtwildwood': // Whisper tutorial 
-				var bg:BGSprite = new BGSprite('mtwildwood/crank-a-kai_bg', -1100, -460, 0.9, 0.9);
-				add(bg);
+				var sky:BGSprite = new BGSprite('mtwildwood/sky', -1800, -1200, 0.9, 0.9);
+				add(sky);
+				
+				var clouds:BGSprite = new BGSprite('mtwildwood/clouds', -2000, -1200, 0.9, 0.9);
+				add(clouds);
+
+				var ground:BGSprite = new BGSprite('mtwildwood/ground', -2500, -100, 0.8, 1);
+				add(ground);
+
+				var tree:BGSprite = new BGSprite('mtwildwood/tree', -1400, -1700, 0.9, 0.9);
+				add(tree);
+
+				treeswinging = new BGSprite('mtwildwood/tree_thingies_lol', 180, 152, 0.9, 0.9, ['tree thingies lol']);
+				add(treeswinging);
 
 			case 'mall': //Week 5 - Cocoa, Eggnog
 				var bg:BGSprite = new BGSprite('christmas/bgWalls', -1000, -500, 0.2, 0.2);
@@ -602,27 +651,36 @@ class PlayState extends MusicBeatState
 				CoolUtil.precacheSound('Lights_Shut_off');
 
 			case 'sparkopolis': //Usapyon week
-				var bg:BGSprite = new BGSprite('sparkopolis/bgWalls', -1000, -500, 0.2, 0.2);
+				var bg:BGSprite = new BGSprite('stages lol/sparkopolis/bgWalls', -1000, -500, 0.2, 0.2);
 				bg.setGraphicSize(Std.int(bg.width * 0.8));
 				bg.updateHitbox();
 				add(bg);
-
 				if(!ClientPrefs.lowQuality) {
 
 
-					var bgEscalator:BGSprite = new BGSprite('sparkopolis/bgEscalator', -1100, -800, 0.3, 0.3);
+					var bgEscalator:BGSprite = new BGSprite('stages lol/sparkopolis/bgEscalator', -1100, -800, 0.3, 0.3);
 					bgEscalator.setGraphicSize(Std.int(bgEscalator.width * 0.9));
 					bgEscalator.updateHitbox();
 					add(bgEscalator);
 				}
 
-				var fgSnow:BGSprite = new BGSprite('sparkopolis/fgSnow', -600, 700);
+				var fgSnow:BGSprite = new BGSprite('stages lol/sparkopolis/fgSnow', -600, 700);
 				add(fgSnow);
 
-				bottomBoppers = new BGSprite('sparkopolis/bottomBop', -300, 140, 0.9, 0.9, ['Bottom Level Boppers']);
+				bottomBoppers = new BGSprite('stages lol/sparkopolis/haileywoah', -40, 160, 0.9, 0.9, ['hailey not stick']);
 				bottomBoppers.setGraphicSize(Std.int(bottomBoppers.width * 1));
 				bottomBoppers.updateHitbox();
+				bottomBoppers.setGraphicSize(Std.int(bottomBoppers.width * 1.4));
 				add(bottomBoppers);
+
+				case 'bedroom': //Week 1
+				var bg:BGSprite = new BGSprite('stages lol/bedroom/room', -2900, -1050, 0.9, 0.9);
+				bg.setGraphicSize(Std.int(bg.width *0.6));
+				add(bg);
+
+// maple u are so dumb just rfn qaeragujwnetgow4jet
+//  for x, adding makes you go right, subtracting left
+//	for y, adding makes you go down, subtracting up
 
 			case 'mallEvil': //Week 5 - Winter Horrorland
 				var bg:BGSprite = new BGSprite('christmas/evilBG', -400, -500, 0.2, 0.2);
@@ -745,6 +803,31 @@ class PlayState extends MusicBeatState
 
 		add(dadGroup);
 		add(boyfriendGroup);
+
+		if (curStage == 'mtwildwood')
+		{
+			var bush1:BGSprite = new BGSprite('mtwildwood/bush_right', -2900, 100, 0.9, 0.9);
+			add(bush1);
+		}
+
+		if (curStage == 'mtwildwood')
+		{
+
+			
+// maple u are so dumb just rfn qaeragujwnetgow4jet
+//  for x, adding makes you go right, subtracting left
+//	for y, adding makes you go down, subtracting up
+
+
+			var bush2:BGSprite = new BGSprite('mtwildwood/bush_left', -2000, 100, 0.9, 0.9);
+			add(bush2);
+		}
+
+		if (curStage == 'bedroom')
+		{
+			var bed:BGSprite = new BGSprite('stages lol/bedroom/bed', -1200, -600, 0.9, 0.9);
+			add(bed);
+		}
 		
 		if(curStage == 'spooky') {
 			add(halloweenWhite);
@@ -1388,6 +1471,7 @@ class PlayState extends MusicBeatState
 	public function startCountdown():Void
 	{
 		if(startedCountdown) {
+			startVideo('EnterBattle');
 			callOnLuas('onStartCountdown', []);
 			return;
 		}
@@ -1458,10 +1542,13 @@ class PlayState extends MusicBeatState
 				if(curStage == 'train station') {
 					crowd.dance(true);
 
-
 				if(curStage == 'sparkopolis') {
 					bottomBoppers.dance(true);
-
+					
+				if(curStage == 'mtwildwood')
+					treeswinging.dance(true);
+				
+				
 
 				switch (swagCounter)
 				{
@@ -1946,6 +2033,10 @@ class PlayState extends MusicBeatState
 
 	override public function update(elapsed:Float)
 	{
+		if(funnyFloatyBoys.contains(dad.curCharacter.toLowerCase()) && canFloat)
+			{
+				dad.y += (Math.sin(elapsedtime) * 0.6);
+			}
 		/*if (FlxG.keys.justPressed.NINE)
 		{
 			iconP1.swapOldIcon();
@@ -2119,17 +2210,17 @@ class PlayState extends MusicBeatState
 			
 				if (FlxG.keys.justPressed.SEVEN)
 					{
-						switch (curSong.toLowerCase())
-						{
-							case 'shogun':
-								PlayState.storyPlaylist = ['for-naughty-brats'];
-								PlayState.isStoryMode = false;
-								PlayState.storyDifficulty = 2;
-								PlayState.SONG = Song.loadFromJson(StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase() + '-hard', StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase());
-								PlayState.storyWeek = 10;
-								PlayState.campaignScore = 0;
-								LoadingState.loadAndSwitchState(new PlayState(), true);
-						}
+					//	switch (curSong.toLowerCase())
+					//	{
+					//		case 'shogun':
+					//			PlayState.storyPlaylist = ['for-naughty-brats'];
+					//			PlayState.isStoryMode = false;
+					//			PlayState.storyDifficulty = 2;
+					//			PlayState.SONG = Song.loadFromJson(StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase() + '-hard', StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase());
+					//			PlayState.storyWeek = 10;
+					//			PlayState.campaignScore = 0;
+					//			LoadingState.loadAndSwitchState(new PlayState(), true);
+					//	}
 
 					}
 			
@@ -2151,18 +2242,18 @@ class PlayState extends MusicBeatState
 			DiscordClient.changePresence("Chart Editor", null, null, true);
 			#end
 
-			switch (curSong.toLowerCase())
-			{
-				case 'shogun':
-					PlayState.storyPlaylist = ['for-naughty-brats'];
-					PlayState.isStoryMode = false;
-					PlayState.storyDifficulty = 2;
-					PlayState.SONG = Song.loadFromJson(StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase() + '-hard', StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase());
-					PlayState.storyWeek = 10;
-					PlayState.campaignScore = 0;
-					LoadingState.loadAndSwitchState(new PlayState(), true);
-					
-			}
+		//	switch (curSong.toLowerCase())
+		//	{
+		//		case 'shogun':
+		//			PlayState.storyPlaylist = ['for-naughty-brats'];
+		//			PlayState.isStoryMode = false;
+		//			PlayState.storyDifficulty = 2;
+		//			PlayState.SONG = Song.loadFromJson(StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase() + '-hard', StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase());
+		//			PlayState.storyWeek = 10;
+		//			PlayState.campaignScore = 0;
+		//			LoadingState.loadAndSwitchState(new PlayState(), true);
+		//			
+		//	}
 			
 		}
 
@@ -2682,25 +2773,10 @@ class PlayState extends MusicBeatState
 						FlxG.sound.play(Paths.sound('slice'));
 					});
 
-			case 'Usapyon fuck you': // da duel mechanic lmao
-				pressnfucko();
-				{
-			if (FlxG.keys.justPressed.N)
-				{
-					FlxG.sound.play(Paths.sound('gunfire'));
-					FlxG.camera.shake(0.01, 0.2);
-					boyfriend.playAnim('attack', true);
-					health += 0.17;
-	
-				}
-		//	else
-		//		{
-		//		new FlxTimer().start(0.4, function(tmr:FlxTimer)
-		//		{
-		//		usaphitboof();
-		//		});
-		//		}
-			}
+			case 'Power Nap Regen':
+				dad.playAnim('regenWAKE', true);
+				FlxG.camera.shake(0.01, 0.2);
+				health -= 0.43;
 
 			case 'Trigger BG Ghouls':
 				if(curStage == 'schoolEvil' && !ClientPrefs.lowQuality) {
@@ -3747,26 +3823,6 @@ class PlayState extends MusicBeatState
 
 
 
-	function usaphitboof()
-		{
-			FlxG.sound.play(Paths.sound('gunfire'));
-			FlxG.camera.shake(0.01, 0.2);
-			dad.playAnim('singRIGHT', true);
-			health -= 0.17;
-		}
-
-	function pressnfucko()
-		{
-			pleasepressn = new FlxSprite().loadGraphic(Paths.image('PRESS_SPACE'));
-			pleasepressn.antialiasing = true;
-			pleasepressn.screenCenter();
-			pleasepressn.alpha = 0;
-			add(pleasepressn);
-
-			pleasepressn.alpha = 1;
-			FlxTween.tween(pleasepressn, {alpha: 0}, 1, {ease: FlxEase.expoInOut});
-
-		}
 
 	function killHenchmen():Void
 	{
@@ -3932,8 +3988,11 @@ class PlayState extends MusicBeatState
 				if(heyTimer <= 0) bottomBoppers.dance(true);
 				santa.dance(true);
 
-				case 'train station':
-					crowd.dance(true);
+			case 'train station':
+				crowd.dance(true);
+				
+			case 'mtwildwood':
+				treeswinging.dance(true);
 
 			case 'sparkopolis':
 				if(heyTimer <= 0) bottomBoppers.dance(true);

@@ -1,5 +1,5 @@
 {
-	"storyName": "Space otter fuck head lmao",
+	"storyName": "help me i cant think of a name for this",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "week2",
@@ -16,7 +16,25 @@
 	],
 	"songs": [
 		[
-			"No-villains",
+			"Encounter",
+			"usapyon",
+			[
+				129,
+				223,
+				249
+			]
+		],
+		[
+			"Rocket-Science",
+			"usapyon",
+			[
+				129,
+				223,
+				249
+			]
+		],
+		[
+			"INVADER",
 			"usapyon",
 			[
 				129,
@@ -26,5 +44,5 @@
 		]
 	],
 	"hideStoryMode": false,
-	"weekName": "The Bumpkin"
+	"weekName": "help me"
 }

@@ -1,74 +1,116 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
-			"portrait": "kj",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "Welcome to the party yo!"
+			"text": "Welcome to the par-tay yo!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kj"
+		},
+		{
+			"expression": "talk",
+			"text": "why the hell i mean heck did you say par-tay",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Anyways!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kj"
+		},
+		{
+			"expression": "talk",
+			"text": "This gig was really last minute yo! I need to know if you'll be able to put on a good show!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kj"
+		},
+		{
+			"expression": "talk",
+			"text": "im gonna sit on this egg",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "can we rap "
-		},
-		{
-			"speed": 0.05,
-			"portrait": "kj",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Sure yo!"
+			"text": "gf shut up"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "coolswag"
+			"text": "and yeah, i gotchu"
+		},
+		{
+			"expression": "talk",
+			"text": "Thanks man! Ill make sure to repay you\\nsomehow.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kj"
+		},
+		{
+			"expression": "excited",
+			"text": "alrighty, game time lion dog thing",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Look at these cool shades I found!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "whisper"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
 		},
 		{
 			"speed": 0.05,
 			"portrait": "gf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "im gonna sit on this egg"
+			"text": ""
 		},
 		{
 			"speed": 0.05,
 			"portrait": "kj",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "We have quite a crowd, So you better do good!"
+			"text": ""
 		},
 		{
 			"speed": 0.05,
-			"portrait": "",
-			"boxState": "normal",
-			"expression": "pissed",
-			"text": "i am so good at rapping\\nyou know im gonna rock this crowd"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "whisper",
+			"portrait": "gf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Look at these cool shades I found!"
+			"text": "this is why i fucking despise you"
+		},
+		{
+			"expression": "talk",
+			"text": "Let's do this!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kj"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "alright lets go kj"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "kj",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Let's do this!"
+			"text": "alright"
 		}
 	]
 }

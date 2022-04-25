@@ -83,7 +83,7 @@ class ChartingState extends MusicBeatState
 		['Slice', "Slices the player, Only works on shogunyan. \n Dont input any values"],
 		['Sound Player', "It plays a sound. \n Value 1: Sound to play"],
 		['Blammed Lights?', "Dont even think about it. \n Im being serious don't try it."],
-		['Usapyon fuck you', "some stupid duel mechanic\n ONLY USE IF CHARACTER HAS A ALT SING RIGHT\n AND A ATTACK ON BF"]
+		['Power Nap Regen', "gooddbyee health lol"]
 	];
 
 	var _file:FileReference;

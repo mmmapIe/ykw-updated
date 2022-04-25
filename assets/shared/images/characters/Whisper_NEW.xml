@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Whisper NEW.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle Whisper0000" x="5" y="5" width="277" height="407" pivotX="7.4" pivotY="6.55" frameX="-2" frameY="-10" frameWidth="279" frameHeight="420"/>
+	<SubTexture name="Idle Whisper0001" x="5" y="5" width="277" height="407" frameX="-2" frameY="-10" frameWidth="279" frameHeight="420"/>
+	<SubTexture name="Idle Whisper0002" x="294" y="5" width="272" height="413" frameX="0" frameY="-5" frameWidth="279" frameHeight="420"/>
+	<SubTexture name="Idle Whisper0003" x="294" y="5" width="272" height="413" frameX="0" frameY="-5" frameWidth="279" frameHeight="420"/>
+	<SubTexture name="Idle Whisper0004" x="578" y="5" width="267" height="420" frameX="-1" frameY="0" frameWidth="279" frameHeight="420"/>
+	<SubTexture name="Idle Whisper0005" x="578" y="5" width="267" height="420" frameX="-1" frameY="0" frameWidth="279" frameHeight="420"/>
+	<SubTexture name="Idle Whisper0006" x="857" y="5" width="267" height="420" frameX="0" frameY="0" frameWidth="279" frameHeight="420"/>
+	<SubTexture name="Idle Whisper0007" x="857" y="5" width="267" height="420" frameX="0" frameY="0" frameWidth="279" frameHeight="420"/>
+	<SubTexture name="Idle Whisper0008" x="1136" y="5" width="265" height="419" frameX="-2" frameY="0" frameWidth="279" frameHeight="420"/>
+	<SubTexture name="Idle Whisper0009" x="1136" y="5" width="265" height="419" frameX="-2" frameY="0" frameWidth="279" frameHeight="420"/>
+	<SubTexture name="Idle Whisper0010" x="1413" y="5" width="267" height="419" frameX="0" frameY="0" frameWidth="279" frameHeight="420"/>
+	<SubTexture name="Idle Whisper0011" x="1413" y="5" width="267" height="419" frameX="0" frameY="0" frameWidth="279" frameHeight="420"/>
+	<SubTexture name="Idle Whisper0012" x="1692" y="5" width="259" height="419" frameX="-8" frameY="0" frameWidth="279" frameHeight="420"/>
+	<SubTexture name="Idle Whisper0013" x="1692" y="5" width="259" height="419" frameX="-8" frameY="0" frameWidth="279" frameHeight="420"/>
+	<SubTexture name="Whisper Down 0000" x="5" y="437" width="296" height="336" pivotX="-2.7" pivotY="7.4" frameX="-6" frameY="-56" frameWidth="302" frameHeight="392"/>
+	<SubTexture name="Whisper Down 0001" x="5" y="437" width="296" height="336" frameX="-6" frameY="-56" frameWidth="302" frameHeight="392"/>
+	<SubTexture name="Whisper Down 0002" x="313" y="437" width="281" height="339" frameX="-13" frameY="-44" frameWidth="302" frameHeight="392"/>
+	<SubTexture name="Whisper Down 0003" x="606" y="437" width="280" height="339" frameX="-13" frameY="-44" frameWidth="302" frameHeight="392"/>
+	<SubTexture name="Whisper Down 0004" x="898" y="437" width="264" height="363" frameX="-8" frameY="-8" frameWidth="302" frameHeight="392"/>
+	<SubTexture name="Whisper Down 0005" x="1174" y="437" width="268" height="363" frameX="-8" frameY="-8" frameWidth="302" frameHeight="392"/>
+	<SubTexture name="Whisper Down 0006" x="1454" y="437" width="263" height="363" frameX="0" frameY="0" frameWidth="302" frameHeight="392"/>
+	<SubTexture name="Whisper Down 0007" x="1454" y="437" width="263" height="363" frameX="0" frameY="0" frameWidth="302" frameHeight="392"/>
+	<SubTexture name="Whisper Left0000" x="5" y="812" width="418" height="443" pivotX="41.5" pivotY="18.25" frameX="0" frameY="0" frameWidth="503" frameHeight="443"/>
+	<SubTexture name="Whisper Left0001" x="5" y="812" width="418" height="443" frameX="0" frameY="0" frameWidth="503" frameHeight="443"/>
+	<SubTexture name="Whisper Left0002" x="435" y="812" width="411" height="430" frameX="-19" frameY="-5" frameWidth="503" frameHeight="443"/>
+	<SubTexture name="Whisper Left0003" x="435" y="812" width="411" height="430" frameX="-19" frameY="-5" frameWidth="503" frameHeight="443"/>
+	<SubTexture name="Whisper Left0004" x="858" y="812" width="431" height="417" frameX="-53" frameY="-18" frameWidth="503" frameHeight="443"/>
+	<SubTexture name="Whisper Left0005" x="858" y="812" width="431" height="417" frameX="-53" frameY="-18" frameWidth="503" frameHeight="443"/>
+	<SubTexture name="Whisper Left0006" x="1301" y="812" width="427" height="401" frameX="-76" frameY="-18" frameWidth="503" frameHeight="443"/>
+	<SubTexture name="Whisper Left0007" x="1301" y="812" width="427" height="401" frameX="-76" frameY="-18" frameWidth="503" frameHeight="443"/>
+	<SubTexture name="Whisper Up0000" x="5" y="1267" width="342" height="359" pivotX="13.6" pivotY="12.95" frameX="0" frameY="0" frameWidth="352" frameHeight="470"/>
+	<SubTexture name="Whisper Up0001" x="5" y="1267" width="342" height="359" frameX="0" frameY="0" frameWidth="352" frameHeight="470"/>
+	<SubTexture name="Whisper Up0002" x="359" y="1267" width="329" height="416" frameX="-9" frameY="-3" frameWidth="352" frameHeight="470"/>
+	<SubTexture name="Whisper Up0003" x="359" y="1267" width="329" height="416" frameX="-9" frameY="-3" frameWidth="352" frameHeight="470"/>
+	<SubTexture name="Whisper Up0004" x="700" y="1267" width="326" height="458" frameX="-22" frameY="-12" frameWidth="352" frameHeight="470"/>
+	<SubTexture name="Whisper Up0005" x="700" y="1267" width="326" height="458" frameX="-22" frameY="-12" frameWidth="352" frameHeight="470"/>
+	<SubTexture name="Whisper Up0006" x="1038" y="1267" width="330" height="443" frameX="-22" frameY="-20" frameWidth="352" frameHeight="470"/>
+	<SubTexture name="Whisper Up0007" x="1380" y="1267" width="330" height="443" frameX="-22" frameY="-20" frameWidth="352" frameHeight="470"/>
+	<SubTexture name="Whisper right0000" x="5" y="1737" width="413" height="409" pivotX="13.8" pivotY="11.6" frameX="-80" frameY="0" frameWidth="493" frameHeight="409"/>
+	<SubTexture name="Whisper right0001" x="5" y="1737" width="413" height="409" frameX="-80" frameY="0" frameWidth="493" frameHeight="409"/>
+	<SubTexture name="Whisper right0002" x="430" y="1737" width="444" height="395" frameX="-44" frameY="-6" frameWidth="493" frameHeight="409"/>
+	<SubTexture name="Whisper right0003" x="430" y="1737" width="444" height="395" frameX="-44" frameY="-6" frameWidth="493" frameHeight="409"/>
+	<SubTexture name="Whisper right0004" x="886" y="1737" width="474" height="396" frameX="-8" frameY="-11" frameWidth="493" frameHeight="409"/>
+	<SubTexture name="Whisper right0005" x="886" y="1737" width="474" height="396" frameX="-8" frameY="-11" frameWidth="493" frameHeight="409"/>
+	<SubTexture name="Whisper right0006" x="1372" y="1737" width="480" height="396" frameX="0" frameY="-11" frameWidth="493" frameHeight="409"/>
+	<SubTexture name="Whisper right0007" x="1372" y="1737" width="480" height="396" frameX="0" frameY="-11" frameWidth="493" frameHeight="409"/>
+</TextureAtlas>

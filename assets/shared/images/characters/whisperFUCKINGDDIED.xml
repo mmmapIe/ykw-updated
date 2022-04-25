@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whisperFUCKINGDDIED.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WHISPER DIEDD instance 10000" x="0" y="0" width="357" height="329" pivotX="10.95" pivotY="2.25" frameX="-11" frameY="-4" frameWidth="378" frameHeight="333"/>
+	<SubTexture name="WHISPER DIEDD instance 10001" x="0" y="0" width="357" height="329" frameX="-11" frameY="-4" frameWidth="378" frameHeight="333"/>
+	<SubTexture name="WHISPER DIEDD instance 10002" x="357" y="0" width="364" height="329" frameX="-9" frameY="0" frameWidth="378" frameHeight="333"/>
+	<SubTexture name="WHISPER DIEDD instance 10003" x="357" y="0" width="364" height="329" frameX="-9" frameY="0" frameWidth="378" frameHeight="333"/>
+	<SubTexture name="WHISPER DIEDD instance 10004" x="721" y="0" width="376" height="322" frameX="-1" frameY="0" frameWidth="378" frameHeight="333"/>
+	<SubTexture name="WHISPER DIEDD instance 10005" x="721" y="0" width="376" height="322" frameX="-1" frameY="0" frameWidth="378" frameHeight="333"/>
+	<SubTexture name="WHISPER DIEDD instance 10006" x="1097" y="0" width="378" height="321" frameX="0" frameY="0" frameWidth="378" frameHeight="333"/>
+	<SubTexture name="WHISPER DIEDD instance 10007" x="1097" y="0" width="378" height="321" frameX="0" frameY="0" frameWidth="378" frameHeight="333"/>
+	<SubTexture name="WHISPER DIEDD instance 10008" x="1475" y="0" width="378" height="321" frameX="0" frameY="0" frameWidth="378" frameHeight="333"/>
+	<SubTexture name="WHISPER DIEDD instance 10009" x="1475" y="0" width="378" height="321" frameX="0" frameY="0" frameWidth="378" frameHeight="333"/>
+	<SubTexture name="WHISPER DIEDD instance 10010" x="0" y="329" width="378" height="320" frameX="0" frameY="0" frameWidth="378" frameHeight="333"/>
+	<SubTexture name="WHISPER DIEDD instance 10011" x="0" y="329" width="378" height="320" frameX="0" frameY="0" frameWidth="378" frameHeight="333"/>
+	<SubTexture name="WHISPER DIEDD instance 10012" x="378" y="329" width="377" height="320" frameX="0" frameY="0" frameWidth="378" frameHeight="333"/>
+	<SubTexture name="WHISPER DIEDD instance 10013" x="378" y="329" width="377" height="320" frameX="0" frameY="0" frameWidth="378" frameHeight="333"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-170,
+				-340
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Jibanyan Idle Dance"
+		},
+		{
+			"offsets": [
+				-174,
+				-340
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Jibanyan NOTE LEFT"
+		},
+		{
+			"offsets": [
+				-175,
+				-346
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Jibanyan Down Note"
+		},
+		{
+			"offsets": [
+				-174,
+				-341
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Jibanyan Up note"
+		},
+		{
+			"offsets": [
+				-189,
+				-346
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Jibanyan Note Right"
+		},
+		{
+			"offsets": [
+				-173,
+				-340
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "nya",
+			"loop": false,
+			"name": "Jibanyan Nya"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jibanyan_FNF_assetss",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jibanyanold",
+	"flip_x": true,
+	"healthbar_colors": [
+		232,
+		81,
+		54
+	],
+	"camera_position": [
+		120,
+		450
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

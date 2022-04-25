@@ -32,7 +32,7 @@ class MainMenuState extends MusicBeatState
 	var menuItems:FlxTypedGroup<FlxSprite>;
 	private var camGame:FlxCamera;
 	private var camAchievement:FlxCamera;
-	
+
 	var optionShit:Array<String> = ['story_mode', 'freeplay', #if ACHIEVEMENTS_ALLOWED 'awards', #end 'credits', #if !switch 'donate', #end 'options'];
 
 	var menuguys:FlxSprite;
@@ -67,7 +67,7 @@ class MainMenuState extends MusicBeatState
 		DiscordClient.changePresence("In the Menus", null);
 		#end
 
-		
+
 
 		camGame = new FlxCamera();
 		camAchievement = new FlxCamera();
@@ -105,7 +105,7 @@ class MainMenuState extends MusicBeatState
 
 		for (i in 0...optionShit.length)
 			{
-				var offset:Float = 500 - (Math.max(optionShit.length, 8) - 4) * 80;
+				var offset:Float = 200 - (Math.max(optionShit.length, 8) - 4) * 80;
 				var menuItem:FlxSprite = new FlxSprite(0, (i * 89)  + offset);
 				menuItem.frames = Paths.getSparrowAtlas('mainmenu/menu_' + optionShit[i]);
 				menuItem.animation.addByPrefix('idle', optionShit[i] + " basic", 24);
@@ -121,9 +121,8 @@ class MainMenuState extends MusicBeatState
 				menuItem.antialiasing = ClientPrefs.globalAntialiasing;
 				//menuItem.setGraphicSize(Std.int(menuItem.width * 0.58));
 				menuItem.updateHitbox();
-				FlxMouseEventManager.add(menuItem,onMouseUp,onMouseOver,onMouseOut);
 			}
-			
+
 		menuguys = new FlxSprite();
 		menuguys.frames = Paths.getSparrowAtlas('menuguys');
 		menuguys.animation.addByPrefix('awards', "bf", 24);
@@ -138,7 +137,6 @@ class MainMenuState extends MusicBeatState
 		menuguys.antialiasing = true;
 		FlxTween.tween(menuguys, {y: menuguys.y + 10}, 2, {ease: FlxEase.quadInOut, type: PINGPONG});
 		FlxTween.tween(menuguys, {x: menuguys.x + 10}, 2, {ease: FlxEase.quadInOut, type: PINGPONG, startDelay: 0.15});
-		add(menuguys);
 
 
 		var versionShit:FlxText = new FlxText(12, FlxG.height - 44, 0, "Psych Engine v" + psychEngineVersion, 12);
@@ -183,13 +181,13 @@ class MainMenuState extends MusicBeatState
 	  ];
 	  public function playMenuGuysAnim(?anim:String = 'story_mode') {
 		if (menuguys == null) return;
-		
+
 		var offset = offsets.get('story_mode');
 		if (offsets.exists(anim)) var offset = offsets.get(anim);
-	  
+
 		menuguys.x = offset.x;
 		menuguys.y = offset.y;
-	  
+
 		menuguys.animation.play(anim);
 	  }
 
@@ -283,12 +281,38 @@ class MainMenuState extends MusicBeatState
 			#end
 		}
 
-		super.update(elapsed);
+		menuItems.forEach(function(spr:FlxSprite){
+			spr.scale.set(0.6, 0.6);
 
-		menuItems.forEach(function(spr:FlxSprite)
-		{
-			spr.screenCenter(X);
+			switch(spr.ID)
+			{
+			case 0: //story
+			spr.x = 25;
+			spr.y = 300;
+
+			case 1: //freeplay
+			spr.x = 500;
+			spr.y = 300;
+
+			case 2: //awards
+			spr.x = 895;
+			spr.y = 300;
+
+			case 3: //credits
+			spr.x = 25;
+			spr.y = 620;
+
+			case 4: //bank
+			spr.x = 510;
+			spr.y = 610;
+
+			case 5: //options
+			spr.x = 895;
+			spr.y = 620;
+		}
 		});
+
+		super.update(elapsed);
 	}
 
 	function changeItem(huh:Int = 0)

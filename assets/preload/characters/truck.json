@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "truck idle"
+		},
+		{
+			"offsets": [
+				-4,
+				58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "truck down"
+		},
+		{
+			"offsets": [
+				-8,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "truck left"
+		},
+		{
+			"offsets": [
+				-16,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "truck right"
+		},
+		{
+			"offsets": [
+				-27,
+				107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "truck up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Truck",
+	"position": [
+		10,
+		300
+	],
+	"healthicon": "truck",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		198,
+		151
+	],
+	"camera_position": [
+		-70,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WhisperShogun.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Whisper gud smol instance 10000" x="0" y="0" width="330" height="304" pivotX="-38.85" pivotY="-0.45" frameX="-6" frameY="-21" frameWidth="336" frameHeight="333"/>
+	<SubTexture name="Whisper gud smol instance 10001" x="0" y="0" width="330" height="304" frameX="-6" frameY="-21" frameWidth="336" frameHeight="333"/>
+	<SubTexture name="Whisper gud smol instance 10002" x="330" y="0" width="307" height="306" frameX="-9" frameY="-21" frameWidth="336" frameHeight="333"/>
+	<SubTexture name="Whisper gud smol instance 10003" x="330" y="0" width="307" height="306" frameX="-9" frameY="-21" frameWidth="336" frameHeight="333"/>
+	<SubTexture name="Whisper gud smol instance 10004" x="637" y="0" width="320" height="318" frameX="0" frameY="-15" frameWidth="336" frameHeight="333"/>
+	<SubTexture name="Whisper gud smol instance 10005" x="637" y="0" width="320" height="318" frameX="0" frameY="-15" frameWidth="336" frameHeight="333"/>
+	<SubTexture name="Whisper gud smol instance 10006" x="0" y="318" width="303" height="321" frameX="-5" frameY="-6" frameWidth="336" frameHeight="333"/>
+	<SubTexture name="Whisper gud smol instance 10007" x="0" y="318" width="303" height="321" frameX="-5" frameY="-6" frameWidth="336" frameHeight="333"/>
+	<SubTexture name="Whisper gud smol instance 10008" x="303" y="318" width="310" height="326" frameX="-11" frameY="0" frameWidth="336" frameHeight="333"/>
+	<SubTexture name="Whisper gud smol instance 10009" x="303" y="318" width="310" height="326" frameX="-11" frameY="0" frameWidth="336" frameHeight="333"/>
+	<SubTexture name="Whisper gud smol instance 10010" x="613" y="318" width="310" height="326" frameX="-11" frameY="-2" frameWidth="336" frameHeight="333"/>
+	<SubTexture name="Whisper gud smol instance 10011" x="613" y="318" width="310" height="326" frameX="-11" frameY="-2" frameWidth="336" frameHeight="333"/>
+	<SubTexture name="Whisper gud smol instance 10012" x="613" y="318" width="310" height="326" frameX="-11" frameY="-5" frameWidth="336" frameHeight="333"/>
+	<SubTexture name="Whisper gud smol instance 10013" x="0" y="644" width="319" height="320" frameX="-6" frameY="-11" frameWidth="336" frameHeight="333"/>
+	<SubTexture name="Whisper gud smol instance 10014" x="0" y="644" width="319" height="320" frameX="-6" frameY="-12" frameWidth="336" frameHeight="333"/>
+</TextureAtlas>

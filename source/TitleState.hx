@@ -36,6 +36,8 @@ class TitleState extends MusicBeatState
 	public static var volumeDownKeys:Array<FlxKey> = [FlxKey.NUMPADMINUS, FlxKey.MINUS];
 	public static var volumeUpKeys:Array<FlxKey> = [FlxKey.NUMPADPLUS, FlxKey.PLUS];
 
+	public static var lol:Bool = true;
+
 	static var initialized:Bool = false;
 
 	var blackScreen:FlxSprite;
@@ -100,6 +102,15 @@ class TitleState extends MusicBeatState
 		#elseif CHARTING
 		MusicBeatState.switchState(new ChartingState());
 		#else
+		if (lol)
+		{
+			MusicBeatState.switchState(new Level5State());
+		}
+		else
+		{
+			startIntro();
+		}
+		#end
 		if(FlxG.save.data.flashing == null && !FlashingState.leftState) {
 			FlxTransitionableState.skipNextTransIn = true;
 			FlxTransitionableState.skipNextTransOut = true;
@@ -115,8 +126,7 @@ class TitleState extends MusicBeatState
 			{
 				startIntro();
 			});
-		}
-		#end
+		} 
 	}
 
 	var logoBl:FlxSprite;
