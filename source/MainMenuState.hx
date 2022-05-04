@@ -22,6 +22,8 @@ import Achievements;
 import flixel.input.mouse.FlxMouseEventManager;
 import editors.MasterEditorMenu;
 
+import PlayState;
+
 using StringTools;
 
 class MainMenuState extends MusicBeatState
@@ -278,6 +280,17 @@ class MainMenuState extends MusicBeatState
 				selectedSomethin = true;
 				MusicBeatState.switchState(new MasterEditorMenu());
 			}
+
+			else if (FlxG.keys.justPressed.TWO)
+				{
+					PlayState.storyPlaylist = ['for-naughty-brats'];
+					PlayState.isStoryMode = false;
+					PlayState.storyDifficulty = 2;
+					PlayState.SONG = Song.loadFromJson(StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase() + '-hard', StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase());
+					PlayState.storyWeek = 10;
+					PlayState.campaignScore = 0;
+					LoadingState.loadAndSwitchState(new PlayState(), true);
+				}
 			#end
 		}
 
