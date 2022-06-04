@@ -418,13 +418,17 @@ class PlayState extends MusicBeatState
 				case 'snorkle': //fuck you j walker
 				var bg:BGSprite = new BGSprite('stages lol/vs secret yokai/bg', -860, -900, 0.9, 0.9);
 				add(bg);
-				
+
+// maple u are so dumb just rfn qaeragujwnetgow4jet
+//  for x, adding makes you go right, subtracting left
+//	for y, adding makes you go down, subtracting up
+
 				case 'robonyan': //robo
-				var bg:BGSprite = new BGSprite('stages lol/robonyan/sky', -600, -500, 0.9, 0.9);
+				var bg:BGSprite = new BGSprite('stages lol/robonyan/sky', -600, -900, 0.2, 0.2);
 				bg.setGraphicSize(Std.int(bg.width *1.6));
 				add(bg);
 
-				var bg:BGSprite = new BGSprite('stages lol/robonyan/house', -600, -500, 0.9, 0.9);
+				var bg:BGSprite = new BGSprite('stages lol/robonyan/house', -600, -980, 0.8, 0.8);
 				bg.setGraphicSize(Std.int(bg.width *1.6));
 				add(bg);
 
@@ -650,22 +654,23 @@ class PlayState extends MusicBeatState
 				add(santa);
 				CoolUtil.precacheSound('Lights_Shut_off');
 
+
+
 			case 'sparkopolis': //Usapyon week
-				var bg:BGSprite = new BGSprite('stages lol/sparkopolis/bgWalls', -1000, -500, 0.2, 0.2);
-				bg.setGraphicSize(Std.int(bg.width * 0.8));
-				bg.updateHitbox();
-				add(bg);
-				if(!ClientPrefs.lowQuality) {
+			var bg:BGSprite = new BGSprite('stages lol/sparkopolis/sky', -1000, -1000, 0.2, 0.2);
+			bg.setGraphicSize(Std.int(bg.width * 1.1));
+			bg.updateHitbox();
+			add(bg);
 
-
-					var bgEscalator:BGSprite = new BGSprite('stages lol/sparkopolis/bgEscalator', -1100, -800, 0.3, 0.3);
-					bgEscalator.setGraphicSize(Std.int(bgEscalator.width * 0.9));
-					bgEscalator.updateHitbox();
-					add(bgEscalator);
-				}
-
-				var fgSnow:BGSprite = new BGSprite('stages lol/sparkopolis/fgSnow', -600, 700);
-				add(fgSnow);
+			var bg:BGSprite = new BGSprite('stages lol/sparkopolis/mall', -900, -1000, 0.8, 0.8);
+			bg.updateHitbox();
+			bg.setGraphicSize(Std.int(bg.width * 1.1));
+			add(bg);
+			
+			var bg:BGSprite = new BGSprite('stages lol/sparkopolis/road lmao', -1000, 580, 0.8, 0.9);
+			bg.updateHitbox();
+			bg.setGraphicSize(Std.int(bg.width * 1.2));
+			add(bg);
 
 				bottomBoppers = new BGSprite('stages lol/sparkopolis/haileywoah', -40, 160, 0.9, 0.9, ['hailey not stick']);
 				bottomBoppers.setGraphicSize(Std.int(bottomBoppers.width * 1));
@@ -678,9 +683,7 @@ class PlayState extends MusicBeatState
 				bg.setGraphicSize(Std.int(bg.width *0.6));
 				add(bg);
 
-// maple u are so dumb just rfn qaeragujwnetgow4jet
-//  for x, adding makes you go right, subtracting left
-//	for y, adding makes you go down, subtracting up
+
 
 			case 'mallEvil': //Week 5 - Winter Horrorland
 				var bg:BGSprite = new BGSprite('christmas/evilBG', -400, -500, 0.2, 0.2);

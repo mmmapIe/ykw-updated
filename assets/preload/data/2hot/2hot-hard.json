@@ -1,8 +1,8 @@
 {
 	"song": {
-		"player1": "pico-p1",
+		"player1": "bfv2",
 		"events": [],
-		"gfVersion": "nene",
+		"gfVersion": "gfwhispernew",
 		"notes": [
 			{
 				"sectionNotes": [
@@ -4904,10 +4904,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "darnell",
-		"player3": null,
+		"player2": "robonyanf",
+		"player3": "gfwhispernew",
 		"song": "2HOT",
-		"stage": "darnell",
+		"stage": "robonyan",
 		"needsVoices": true,
 		"validScore": true,
 		"arrowSkin": "",
