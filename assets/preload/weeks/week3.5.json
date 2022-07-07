@@ -7,8 +7,8 @@
 		113,
 		253
 	],
-	"weekBefore": "week3",
-	"startUnlocked": true,
+	"weekBefore": "week4",
+	"startUnlocked": false,
 	"hideStoryMode": false,
 	"weekCharacters": [
 		"",
@@ -16,24 +16,6 @@
 		""
 	],
 	"songs": [
-		[
-			"Warm-Up",
-			"whisper",
-			[
-				215,
-				255,
-				255
-			]
-		],
-		[
-			"Legendary",
-			"shogunyanhappy",
-			[
-				129,
-				184,
-				205
-			]
-		],
 		[
 			"Shogun",
 			"shogunyan",

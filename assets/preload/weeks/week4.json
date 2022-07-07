@@ -2,7 +2,7 @@
 	"storyName": "help me i cant think of a name for this",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"weekBefore": "week3.5",
+	"weekBefore": "week3",
 	"freeplayColor": [
 		146,
 		113,
@@ -25,25 +25,7 @@
 			]
 		],
 		[
-			"Upgrade",
-			"robonyanf",
-			[
-				129,
-				223,
-				249
-			]
-		],
-		[
 			"I'll-Be-Back",
-			"robonyanf",
-			[
-				129,
-				223,
-				249
-			]
-		],
-		[
-			"2HOT",
 			"robonyanf",
 			[
 				129,

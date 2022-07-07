@@ -551,31 +551,25 @@ class PlayState extends MusicBeatState
 				fastCar.active = true;
 				limoKillingState = 0;
 
+// maple u are so dumb just rfn qaeragujwnetgow4jet
+//  for x, adding makes you go right, subtracting left
+//	for y, adding makes you go down, subtracting up
+
 			case 'fishplace': // Jibanyan
 
-				if(!ClientPrefs.lowQuality) {
-					var bg:BGSprite = new BGSprite('fishPlace/sky', -100, 0, 0.1, 0.1);
-					add(bg);
-				}
+				var bg:BGSprite = new BGSprite('stages lol/fishplace/sky', -108, -200, 0.9, 0.9);
+				bg.setGraphicSize(Std.int(bg.width * 1.1));
+				add(bg);
 
-				var city:BGSprite = new BGSprite('fishPlace/city', -10, 0, 0.3, 0.3);
-				city.setGraphicSize(Std.int(city.width * 0.85));
+				var city:BGSprite = new BGSprite('stages lol/fishplace/city', -187, 190, 0.9, 0.9);
+				city.setGraphicSize(Std.int(city.width * 1.1));
 				city.updateHitbox();
 				add(city);
 
-				if(!ClientPrefs.lowQuality) {
-
-				phillyTrain = new BGSprite('fishPlace/truck', 2000, 360);
-				add(phillyTrain);
-
-				trainSound = new FlxSound().loadEmbedded(Paths.sound('truck_passes'));
-				CoolUtil.precacheSound('truck_passes');
-				FlxG.sound.list.add(trainSound);
-
-				var street:BGSprite = new BGSprite('fishPlace/street', -40, 50);
+				var street:BGSprite = new BGSprite('stages lol/fishplace/road', -100, 260, 0.9, 0.9);
+				street.setGraphicSize(Std.int(street.width * 1.1));
 				add(street);
 
-				}
 
 				case 'fishplacenight': // Jibanyan
 
@@ -817,9 +811,7 @@ class PlayState extends MusicBeatState
 		{
 
 			
-// maple u are so dumb just rfn qaeragujwnetgow4jet
-//  for x, adding makes you go right, subtracting left
-//	for y, adding makes you go down, subtracting up
+
 
 
 			var bush2:BGSprite = new BGSprite('mtwildwood/bush_left', -2000, 100, 0.9, 0.9);

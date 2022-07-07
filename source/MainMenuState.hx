@@ -132,7 +132,6 @@ class MainMenuState extends MusicBeatState
 		menuguys.animation.addByPrefix('credits', "bf", 24);
 		menuguys.animation.addByPrefix('story_mode', "bf", 24);
 		menuguys.animation.addByPrefix('options', "options", 24);
-		playMenuGuysAnim('story_mode');
 		menuguys.scrollFactor.set();
 		menuguys.setGraphicSize(Std.int(menuguys.width * 1.23));
 		menuguys.setGraphicSize(Std.int(menuguys.height * 1.23));
