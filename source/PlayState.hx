@@ -820,7 +820,8 @@ class PlayState extends MusicBeatState
 
 		if (curStage == 'bedroom')
 		{
-			var bed:BGSprite = new BGSprite('stages lol/bedroom/bed', -1200, -600, 0.9, 0.9);
+			var bed:BGSprite = new BGSprite('stages lol/bedroom/bed', 810, 770, 0.9, 0.9);
+			bed.setGraphicSize(Std.int(bed.width * 1.4));
 			add(bed);
 		}
 		
