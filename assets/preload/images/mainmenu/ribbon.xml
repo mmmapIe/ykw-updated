@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ribbon.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="badge instance 10000" x="0" y="0" width="505" height="1113" pivotX="0" pivotY="0" frameX="0" frameY="0" frameWidth="506" frameHeight="1113"/>
+	<SubTexture name="badge instance 10001" x="0" y="0" width="505" height="1113" frameX="0" frameY="0" frameWidth="506" frameHeight="1113"/>
+	<SubTexture name="badge instance 10002" x="0" y="0" width="505" height="1113" frameX="0" frameY="0" frameWidth="506" frameHeight="1113"/>
+	<SubTexture name="badge instance 10003" x="0" y="0" width="505" height="1113" frameX="0" frameY="0" frameWidth="506" frameHeight="1113"/>
+	<SubTexture name="badge instance 10004" x="544" y="0" width="504" height="1113" frameX="-1" frameY="0" frameWidth="506" frameHeight="1113"/>
+	<SubTexture name="badge instance 10005" x="544" y="0" width="504" height="1113" frameX="-1" frameY="0" frameWidth="506" frameHeight="1113"/>
+	<SubTexture name="badge instance 10006" x="544" y="0" width="504" height="1113" frameX="-1" frameY="0" frameWidth="506" frameHeight="1113"/>
+	<SubTexture name="badge instance 10007" x="544" y="0" width="504" height="1113" frameX="-1" frameY="0" frameWidth="506" frameHeight="1113"/>
+	<SubTexture name="badge instance 10008" x="1087" y="0" width="505" height="1113" frameX="-1" frameY="0" frameWidth="506" frameHeight="1113"/>
+	<SubTexture name="badge instance 10009" x="1087" y="0" width="505" height="1113" frameX="-1" frameY="0" frameWidth="506" frameHeight="1113"/>
+	<SubTexture name="badge instance 10010" x="1087" y="0" width="505" height="1113" frameX="-1" frameY="0" frameWidth="506" frameHeight="1113"/>
+	<SubTexture name="badge instance 10011" x="1087" y="0" width="505" height="1113" frameX="-1" frameY="0" frameWidth="506" frameHeight="1113"/>
+</TextureAtlas>
