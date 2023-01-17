@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jibanyan truck.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Jibanyan Down0000" x="20" y="20" width="351" height="371" pivotX="2.4" pivotY="58.05" frameX="0" frameY="0" frameWidth="363" frameHeight="371"/>
+	<SubTexture name="Jibanyan Down0001" x="20" y="20" width="351" height="371" frameX="0" frameY="0" frameWidth="363" frameHeight="371"/>
+	<SubTexture name="Jibanyan Down0002" x="406" y="20" width="358" height="360" frameX="-5" frameY="-11" frameWidth="363" frameHeight="371"/>
+	<SubTexture name="Jibanyan Down0003" x="406" y="20" width="358" height="360" frameX="-5" frameY="-11" frameWidth="363" frameHeight="371"/>
+	<SubTexture name="Jibanyan Down0004" x="799" y="20" width="358" height="359" frameX="-5" frameY="-12" frameWidth="363" frameHeight="371"/>
+	<SubTexture name="Jibanyan Down0005" x="799" y="20" width="358" height="359" frameX="-5" frameY="-12" frameWidth="363" frameHeight="371"/>
+	<SubTexture name="Jibanyan Down0006" x="1192" y="20" width="358" height="361" frameX="-5" frameY="-10" frameWidth="363" frameHeight="371"/>
+	<SubTexture name="Jibanyan Down0007" x="1192" y="20" width="358" height="361" frameX="-5" frameY="-10" frameWidth="363" frameHeight="371"/>
+	<SubTexture name="Jibanyan Down0008" x="1585" y="20" width="358" height="364" frameX="-5" frameY="-7" frameWidth="363" frameHeight="371"/>
+	<SubTexture name="Jibanyan Down0009" x="1585" y="20" width="358" height="364" frameX="-5" frameY="-7" frameWidth="363" frameHeight="371"/>
+	<SubTexture name="Jibanyan Down0010" x="20" y="426" width="358" height="362" frameX="-5" frameY="-9" frameWidth="363" frameHeight="371"/>
+	<SubTexture name="Jibanyan Down0011" x="20" y="426" width="358" height="362" frameX="-5" frameY="-9" frameWidth="363" frameHeight="371"/>
+	<SubTexture name="Jibanyan Down0012" x="413" y="426" width="358" height="359" frameX="-5" frameY="-12" frameWidth="363" frameHeight="371"/>
+	<SubTexture name="Jibanyan Down0013" x="413" y="426" width="358" height="359" frameX="-5" frameY="-12" frameWidth="363" frameHeight="371"/>
+	<SubTexture name="Jibanyan Idle0000" x="806" y="426" width="429" height="348" pivotX="7.25" pivotY="9.7" frameX="0" frameY="-22" frameWidth="469" frameHeight="370"/>
+	<SubTexture name="Jibanyan Idle0001" x="806" y="426" width="429" height="348" frameX="0" frameY="-22" frameWidth="469" frameHeight="370"/>
+	<SubTexture name="Jibanyan Idle0002" x="1270" y="426" width="417" height="346" frameX="-3" frameY="-24" frameWidth="469" frameHeight="370"/>
+	<SubTexture name="Jibanyan Idle0003" x="1270" y="426" width="417" height="346" frameX="-3" frameY="-24" frameWidth="469" frameHeight="370"/>
+	<SubTexture name="Jibanyan Idle0004" x="20" y="823" width="463" height="366" frameX="-6" frameY="-4" frameWidth="469" frameHeight="370"/>
+	<SubTexture name="Jibanyan Idle0005" x="20" y="823" width="463" height="366" frameX="-6" frameY="-4" frameWidth="469" frameHeight="370"/>
+	<SubTexture name="Jibanyan Idle0006" x="518" y="823" width="462" height="365" frameX="-7" frameY="-5" frameWidth="469" frameHeight="370"/>
+	<SubTexture name="Jibanyan Idle0007" x="518" y="823" width="462" height="365" frameX="-7" frameY="-5" frameWidth="469" frameHeight="370"/>
+	<SubTexture name="Jibanyan Idle0008" x="1015" y="823" width="457" height="364" frameX="-6" frameY="-6" frameWidth="469" frameHeight="370"/>
+	<SubTexture name="Jibanyan Idle0009" x="1015" y="823" width="457" height="364" frameX="-6" frameY="-6" frameWidth="469" frameHeight="370"/>
+	<SubTexture name="Jibanyan Idle0010" x="1507" y="823" width="457" height="370" frameX="-6" frameY="0" frameWidth="469" frameHeight="370"/>
+	<SubTexture name="Jibanyan Idle0011" x="1507" y="823" width="457" height="370" frameX="-6" frameY="0" frameWidth="469" frameHeight="370"/>
+	<SubTexture name="Jibanyan Idle0012" x="1507" y="823" width="457" height="370" frameX="-6" frameY="0" frameWidth="469" frameHeight="370"/>
+	<SubTexture name="Jibanyan Idle0013" x="1507" y="823" width="457" height="370" frameX="-6" frameY="0" frameWidth="469" frameHeight="370"/>
+	<SubTexture name="Jibanyan Left0000" x="20" y="1228" width="486" height="364" pivotX="42.5" pivotY="7.7" frameX="0" frameY="-4" frameWidth="487" frameHeight="368"/>
+	<SubTexture name="Jibanyan Left0001" x="20" y="1228" width="486" height="364" frameX="0" frameY="-4" frameWidth="487" frameHeight="368"/>
+	<SubTexture name="Jibanyan Left0002" x="541" y="1228" width="481" height="368" frameX="-6" frameY="0" frameWidth="487" frameHeight="368"/>
+	<SubTexture name="Jibanyan Left0003" x="541" y="1228" width="481" height="368" frameX="-6" frameY="0" frameWidth="487" frameHeight="368"/>
+	<SubTexture name="Jibanyan Left0004" x="541" y="1228" width="481" height="368" frameX="-6" frameY="0" frameWidth="487" frameHeight="368"/>
+	<SubTexture name="Jibanyan Left0005" x="541" y="1228" width="481" height="368" frameX="-6" frameY="0" frameWidth="487" frameHeight="368"/>
+	<SubTexture name="Jibanyan Left0006" x="1057" y="1228" width="481" height="366" frameX="-6" frameY="-2" frameWidth="487" frameHeight="368"/>
+	<SubTexture name="Jibanyan Left0007" x="1057" y="1228" width="481" height="366" frameX="-6" frameY="-2" frameWidth="487" frameHeight="368"/>
+	<SubTexture name="Jibanyan Left0008" x="20" y="1631" width="481" height="365" frameX="-6" frameY="-3" frameWidth="487" frameHeight="368"/>
+	<SubTexture name="Jibanyan Left0009" x="20" y="1631" width="481" height="365" frameX="-6" frameY="-3" frameWidth="487" frameHeight="368"/>
+	<SubTexture name="Jibanyan Left0010" x="536" y="1631" width="481" height="362" frameX="-6" frameY="-6" frameWidth="487" frameHeight="368"/>
+	<SubTexture name="Jibanyan Left0011" x="536" y="1631" width="481" height="362" frameX="-6" frameY="-6" frameWidth="487" frameHeight="368"/>
+	<SubTexture name="Jibanyan Left0012" x="1052" y="1631" width="481" height="362" frameX="-6" frameY="-6" frameWidth="487" frameHeight="368"/>
+	<SubTexture name="Jibanyan Left0013" x="1052" y="1631" width="481" height="362" frameX="-6" frameY="-6" frameWidth="487" frameHeight="368"/>
+	<SubTexture name="Jibanyan Right0000" x="1568" y="1631" width="364" height="357" pivotX="-44.65" pivotY="-3.85" frameX="-8" frameY="-1" frameWidth="372" frameHeight="358"/>
+	<SubTexture name="Jibanyan Right0001" x="1568" y="1631" width="364" height="357" frameX="-8" frameY="-1" frameWidth="372" frameHeight="358"/>
+	<SubTexture name="Jibanyan Right0002" x="20" y="2031" width="356" height="357" frameX="0" frameY="-1" frameWidth="372" frameHeight="358"/>
+	<SubTexture name="Jibanyan Right0003" x="20" y="2031" width="356" height="357" frameX="0" frameY="-1" frameWidth="372" frameHeight="358"/>
+	<SubTexture name="Jibanyan Right0004" x="20" y="2031" width="356" height="357" frameX="0" frameY="-1" frameWidth="372" frameHeight="358"/>
+	<SubTexture name="Jibanyan Right0005" x="20" y="2031" width="356" height="357" frameX="0" frameY="-1" frameWidth="372" frameHeight="358"/>
+	<SubTexture name="Jibanyan Right0006" x="411" y="2031" width="356" height="355" frameX="0" frameY="-3" frameWidth="372" frameHeight="358"/>
+	<SubTexture name="Jibanyan Right0007" x="411" y="2031" width="356" height="355" frameX="0" frameY="-3" frameWidth="372" frameHeight="358"/>
+	<SubTexture name="Jibanyan Right0008" x="802" y="2031" width="356" height="357" frameX="0" frameY="-1" frameWidth="372" frameHeight="358"/>
+	<SubTexture name="Jibanyan Right0009" x="802" y="2031" width="356" height="357" frameX="0" frameY="-1" frameWidth="372" frameHeight="358"/>
+	<SubTexture name="Jibanyan Right0010" x="1193" y="2031" width="356" height="358" frameX="0" frameY="0" frameWidth="372" frameHeight="358"/>
+	<SubTexture name="Jibanyan Right0011" x="1193" y="2031" width="356" height="358" frameX="0" frameY="0" frameWidth="372" frameHeight="358"/>
+	<SubTexture name="Jibanyan Right0012" x="1584" y="2031" width="356" height="356" frameX="0" frameY="-2" frameWidth="372" frameHeight="358"/>
+	<SubTexture name="Jibanyan Right0013" x="1584" y="2031" width="356" height="356" frameX="0" frameY="-2" frameWidth="372" frameHeight="358"/>
+	<SubTexture name="Jibanyan Up0000" x="20" y="2424" width="370" height="401" pivotX="-0.85" pivotY="5.85" frameX="-5" frameY="0" frameWidth="401" frameHeight="401"/>
+	<SubTexture name="Jibanyan Up0001" x="20" y="2424" width="370" height="401" frameX="-5" frameY="0" frameWidth="401" frameHeight="401"/>
+	<SubTexture name="Jibanyan Up0002" x="425" y="2424" width="401" height="391" frameX="0" frameY="-10" frameWidth="401" frameHeight="401"/>
+	<SubTexture name="Jibanyan Up0003" x="425" y="2424" width="401" height="391" frameX="0" frameY="-10" frameWidth="401" frameHeight="401"/>
+	<SubTexture name="Jibanyan Up0004" x="861" y="2424" width="401" height="391" frameX="0" frameY="-10" frameWidth="401" frameHeight="401"/>
+	<SubTexture name="Jibanyan Up0005" x="861" y="2424" width="401" height="391" frameX="0" frameY="-10" frameWidth="401" frameHeight="401"/>
+	<SubTexture name="Jibanyan Up0006" x="1297" y="2424" width="401" height="391" frameX="0" frameY="-10" frameWidth="401" frameHeight="401"/>
+	<SubTexture name="Jibanyan Up0007" x="1297" y="2424" width="401" height="391" frameX="0" frameY="-10" frameWidth="401" frameHeight="401"/>
+	<SubTexture name="Jibanyan Up0008" x="20" y="2860" width="401" height="391" frameX="0" frameY="-10" frameWidth="401" frameHeight="401"/>
+	<SubTexture name="Jibanyan Up0009" x="20" y="2860" width="401" height="391" frameX="0" frameY="-10" frameWidth="401" frameHeight="401"/>
+	<SubTexture name="Jibanyan Up0010" x="456" y="2860" width="401" height="391" frameX="0" frameY="-10" frameWidth="401" frameHeight="401"/>
+	<SubTexture name="Jibanyan Up0011" x="456" y="2860" width="401" height="391" frameX="0" frameY="-10" frameWidth="401" frameHeight="401"/>
+	<SubTexture name="Jibanyan Up0012" x="456" y="2860" width="401" height="391" frameX="0" frameY="-10" frameWidth="401" frameHeight="401"/>
+	<SubTexture name="Jibanyan Up0013" x="456" y="2860" width="401" height="391" frameX="0" frameY="-10" frameWidth="401" frameHeight="401"/>
+</TextureAtlas>
