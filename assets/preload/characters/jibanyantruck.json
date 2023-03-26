@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				44,
-				63
+				39,
+				79
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "idle",
+			"indices": [],
+			"name": "Jibanyan Idle"
+		},
+		{
+			"offsets": [
+				29,
+				78
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "down"
+			"name": "Jibanyan Down"
 		},
 		{
 			"offsets": [
-				72,
-				68
+				65,
+				78
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "left"
+			"name": "Jibanyan Left"
 		},
 		{
 			"offsets": [
-				2,
-				83
+				4,
+				71
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "right"
+			"name": "Jibanyan Right"
 		},
 		{
 			"offsets": [
-				31,
-				104
+				3,
+				102
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "up"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				39,
-				79
-			],
-			"anim": "idle",
-			"fps": 25,
-			"name": "idle",
-			"indices": []
+			"name": "Jibanyan Up"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Jibanyan-Truck",
+	"image": "characters/Jibanyan_truck",
 	"position": [
-		0,
-		300
+		30,
+		450
 	],
 	"healthicon": "jibanyan",
 	"flip_x": true,
 	"healthbar_colors": [
 		229,
 		67,
-		46
+		66
 	],
 	"camera_position": [
 		-140,
 		-10
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 0.7
 }

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				253,
+				334
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				444,
+				251
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				418,
+				271
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				309,
+				270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				1627,
+				355
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "drive in",
+			"indices": [],
+			"name": "lol"
+		},
+		{
+			"offsets": [
+				370,
+				268
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				360,
+				270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "invis"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Truck New",
+	"position": [
+		-180,
+		280
+	],
+	"healthicon": "truck",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		198,
+		151
+	],
+	"camera_position": [
+		0,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

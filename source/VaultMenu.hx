@@ -252,18 +252,6 @@ class VaultMenu extends MusicBeatState
                         case 'jaywalking':
                             new FlxTimer().start(1, function(tmr:FlxTimer)
                             {
-                            var randomNum:Int = FlxG.random.int(1, 100);
-                            if (randomNum > 2)
-                            {
-                                PlayState.storyPlaylist = ['4leaf'];
-                                PlayState.isStoryMode = false;
-                                PlayState.storyDifficulty = 2;
-                                PlayState.SONG = Song.loadFromJson(StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase() + '-hard', StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase());
-                                PlayState.storyWeek = 10;
-                                PlayState.campaignScore = 0;
-                                LoadingState.loadAndSwitchState(new PlayState(), true);
-                            }
-                            else
                                 PlayState.storyPlaylist = ['for-naughty-brats'];
                                 PlayState.isStoryMode = false;
                                 PlayState.storyDifficulty = 2;
